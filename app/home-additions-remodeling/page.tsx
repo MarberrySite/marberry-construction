@@ -107,18 +107,18 @@ export default function HomeAdditionsRemodelingPage() {
       {/* Hero */}
       <section className="relative min-h-[80vh] flex items-center bg-navy">
         <div
-          className="absolute top-0 right-0 bottom-0 w-[55%]"
+          className="absolute top-0 right-0 bottom-0 w-[50%]"
           style={{
-            backgroundImage: 'url(/images/hero.jpeg)',
+            backgroundImage: 'url(/images/hero-additions.jpeg)',
             backgroundSize: 'cover',
             backgroundPosition: '30% center',
           }}
         />
         <div
           className="absolute inset-0"
-          style={{ background: 'linear-gradient(to right, #1B2A4A 45%, transparent 45%)' }}
+          style={{ background: 'linear-gradient(to right, #1B2A4A 50%, transparent 50%)' }}
         />
-        <div className="relative z-10 max-w-xl md:max-w-[45%] mx-4 md:mx-8 lg:mx-14 py-20">
+        <div className="relative z-10 max-w-xl md:max-w-[50%] mx-4 md:mx-8 lg:mx-14 py-20">
           <p className="text-gold text-xs font-semibold tracking-[0.2em] uppercase mb-4">
             HOME ADDITIONS AND REMODELING
           </p>
@@ -126,7 +126,7 @@ export default function HomeAdditionsRemodelingPage() {
             More Space.<br />No Compromise.
           </h1>
           <p className="text-white/70 text-lg md:text-xl mb-10">
-            We expand what you already have. Additions, remodels, and renovations done right.
+            We expand what you already have.<br />Additions, remodels, and renovations done right.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-start mb-10">
             <a
@@ -141,6 +141,24 @@ export default function HomeAdditionsRemodelingPage() {
             <span>Insured &amp; Bonded</span>
             <span>Serving 8 Counties</span>
           </div>
+        </div>
+      </section>
+
+      {/* Intro */}
+      <section className="py-24 bg-warmwhite">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            Home Addition and Remodeling Contractor in Fayetteville TN
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Marberry Construction builds home additions and handles remodeling projects throughout Lincoln County, Giles County, Franklin County, and into Northern Alabama. Whether you need an extra bedroom, a larger kitchen, an attached garage, or a covered porch, we build additions that match your existing home in structure, materials, and appearance.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Most of our addition clients have outgrown their current home but love their land, their neighborhood, or their location too much to move. Adding on is often the smarter financial decision, especially in a market where replacing your home means taking on a much higher mortgage. A well-built addition adds usable square footage and increases your home value without the cost and disruption of buying and selling.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            We handle every phase of the addition in-house. That means you deal with one contractor from design through final walkthrough. We pull the permits, manage the schedule, and coordinate all trades. You do not have to find a framer, then a plumber, then an electrician separately. We handle it.
+          </p>
         </div>
       </section>
 
@@ -182,6 +200,21 @@ export default function HomeAdditionsRemodelingPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Costs */}
+      <section className="py-24 bg-white">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            Home Addition Costs in Tennessee and What Affects the Price
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Home additions in this region typically run $120 to $220 per square foot depending on the complexity of the work, the finishes selected, and how much structural work is required to tie the addition into the existing home. A simple bedroom addition with standard finishes costs significantly less per square foot than a kitchen expansion that requires moving load bearing walls, upgrading the electrical panel, and installing custom cabinetry.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            Most of our addition clients in Lincoln County and surrounding areas spend between $40,000 and $120,000 for a meaningful addition that adds real value to the home. Smaller projects like covered porches, mudrooms, or utility additions can come in under $30,000. We give detailed written estimates before any work begins so you know what you are committing to before you sign anything.
+          </p>
         </div>
       </section>
 

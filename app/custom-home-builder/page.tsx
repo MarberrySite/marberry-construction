@@ -107,18 +107,18 @@ export default function CustomHomeBuilderPage() {
       {/* Hero */}
       <section className="relative min-h-[80vh] flex items-center bg-navy">
         <div
-          className="absolute top-0 right-0 bottom-0 w-[55%]"
+          className="absolute top-0 right-0 bottom-0 w-[50%]"
           style={{
-            backgroundImage: 'url(/images/hero.jpeg)',
+            backgroundImage: 'url(/images/hero-custom.jpeg)',
             backgroundSize: 'cover',
             backgroundPosition: '30% center',
           }}
         />
         <div
           className="absolute inset-0"
-          style={{ background: 'linear-gradient(to right, #1B2A4A 45%, transparent 45%)' }}
+          style={{ background: 'linear-gradient(to right, #1B2A4A 50%, transparent 50%)' }}
         />
-        <div className="relative z-10 max-w-xl md:max-w-[45%] mx-4 md:mx-8 lg:mx-14 py-20">
+        <div className="relative z-10 max-w-xl md:max-w-[50%] mx-4 md:mx-8 lg:mx-14 py-20">
           <p className="text-gold text-xs font-semibold tracking-[0.2em] uppercase mb-4">
             CUSTOM HOME CONSTRUCTION
           </p>
@@ -142,6 +142,24 @@ export default function CustomHomeBuilderPage() {
             <span>Insured &amp; Bonded</span>
             <span>Serving 8 Counties</span>
           </div>
+        </div>
+      </section>
+
+      {/* Intro */}
+      <section className="py-24 bg-warmwhite">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            Custom Home Builder Serving Fayetteville TN and Surrounding Counties
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Marberry Construction LLC is a licensed general contractor based in Fayetteville, Tennessee. We build custom homes on your lot throughout Lincoln County, Giles County, Franklin County, and into Madison County and Limestone County in Northern Alabama. Every home we build is designed around your land, your budget, and the way your family actually lives.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Building a custom home in this part of Tennessee and Alabama means working with rolling terrain, clay-heavy soils in some areas, and a climate that swings from humid summers to hard freezes in winter. We account for all of that from the foundation up. Our homes are built to handle what this region throws at them for decades, not just years.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            We are not a production builder. We do not have model homes or preset floor plans you have to choose from. Every project starts with a conversation about your lot, your vision, and what matters most to you in a home. From there we build a plan, pull the permits, and get to work. Brandon Marberry oversees every build personally.
+          </p>
         </div>
       </section>
 
@@ -193,6 +211,24 @@ export default function CustomHomeBuilderPage() {
               ))}
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* What to Expect */}
+      <section className="py-24 bg-white">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            What to Expect When Building a Custom Home in Tennessee
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            The custom home process in Tennessee typically starts 3 to 6 months before any dirt moves. That time is spent finalizing plans, running soil tests if needed, securing financing, and waiting on permit approval from the county. In Lincoln County and surrounding areas, permit timelines typically run 2 to 6 weeks depending on the complexity of the build and current county workload.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Once permits are approved and the site is cleared, a typical custom home build in this region takes 8 to 14 months. Larger homes or builds with complex custom finishes can run longer. Weather is a factor in Tennessee. We plan our pour schedules and framing windows around the forecast and always have contingencies built into the timeline we give you at the start.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            Most of our custom home clients in the $300,000 to $1,100,000 range are building their forever home or their first real custom build after years in production homes. We understand what that means. We communicate clearly at every stage, we do not subcontract work to people we do not know, and we stand behind what we build after you move in.
+          </p>
         </div>
       </section>
 

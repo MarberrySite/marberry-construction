@@ -102,18 +102,18 @@ export default function SepticSystemInstallationPage() {
       {/* Hero */}
       <section className="relative min-h-[80vh] flex items-center bg-navy">
         <div
-          className="absolute top-0 right-0 bottom-0 w-[55%]"
+          className="absolute top-0 right-0 bottom-0 w-[50%]"
           style={{
-            backgroundImage: 'url(/images/hero.jpeg)',
+            backgroundImage: 'url(/images/hero-septic.jpeg)',
             backgroundSize: 'cover',
             backgroundPosition: '30% center',
           }}
         />
         <div
           className="absolute inset-0"
-          style={{ background: 'linear-gradient(to right, #1B2A4A 45%, transparent 45%)' }}
+          style={{ background: 'linear-gradient(to right, #1B2A4A 50%, transparent 50%)' }}
         />
-        <div className="relative z-10 max-w-xl md:max-w-[45%] mx-4 md:mx-8 lg:mx-14 py-20">
+        <div className="relative z-10 max-w-xl md:max-w-[50%] mx-4 md:mx-8 lg:mx-14 py-20">
           <p className="text-gold text-xs font-semibold tracking-[0.2em] uppercase mb-4">
             SEPTIC INSTALLATION
           </p>
@@ -137,6 +137,24 @@ export default function SepticSystemInstallationPage() {
             <span>Insured &amp; Bonded</span>
             <span>Serving 8 Counties</span>
           </div>
+        </div>
+      </section>
+
+      {/* Intro */}
+      <section className="py-24 bg-warmwhite">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            Septic System Installation in Lincoln County, Giles County, and Madison County
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Most properties in rural Lincoln County, Giles County, and the surrounding region are not connected to municipal sewer. That means a properly designed and installed septic system is not optional. It is what makes your property livable. Marberry Construction installs conventional and alternative septic systems for new construction builds and existing properties throughout Southern Tennessee and Northern Alabama.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Soil conditions in this region vary significantly from one lot to the next. Lincoln County and Giles County both have areas with heavy clay soils that drain poorly and areas with sandy loam that percolates well. Before any system is designed, we conduct or coordinate a soil evaluation and percolation test. The county requires this before issuing a septic permit, and it determines what type of system your lot can support.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            We have installed septic systems on flat lots, sloped lots, lots with high water tables, and lots where conventional systems were not approved and an alternative aerobic system was required. Whatever your lot conditions, we assess honestly and recommend the right system for your situation, not the most expensive one.
+          </p>
         </div>
       </section>
 
@@ -178,6 +196,21 @@ export default function SepticSystemInstallationPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Permits */}
+      <section className="py-24 bg-white">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            Septic Permits and County Requirements in Tennessee and Alabama
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            In Tennessee, a septic permit is required before any system can be installed. The permit application goes through the county health department and requires a site evaluation, a soil morphology report, and an approved system design. In Lincoln County, this process typically takes 3 to 8 weeks. We handle the full permit application on every project we take on. You do not have to navigate the county process yourself.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            In Alabama, septic systems fall under the jurisdiction of the county health department as well. Requirements in Madison County and Limestone County are similar to Tennessee in terms of soil evaluation and system approval, though the specific forms and processes differ. We are familiar with both state systems and handle permitting on both sides of the state line.
+          </p>
         </div>
       </section>
 

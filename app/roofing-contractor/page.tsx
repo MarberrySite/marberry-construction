@@ -84,18 +84,18 @@ export default function RoofingContractorPage() {
       {/* Hero */}
       <section className="relative min-h-[80vh] flex items-center bg-navy">
         <div
-          className="absolute top-0 right-0 bottom-0 w-[55%]"
+          className="absolute top-0 right-0 bottom-0 w-[50%]"
           style={{
-            backgroundImage: 'url(/images/hero.jpeg)',
+            backgroundImage: 'url(/images/hero-roofing.jpeg)',
             backgroundSize: 'cover',
             backgroundPosition: '30% center',
           }}
         />
         <div
           className="absolute inset-0"
-          style={{ background: 'linear-gradient(to right, #1B2A4A 45%, transparent 45%)' }}
+          style={{ background: 'linear-gradient(to right, #1B2A4A 50%, transparent 50%)' }}
         />
-        <div className="relative z-10 max-w-xl md:max-w-[45%] mx-4 md:mx-8 lg:mx-14 py-20">
+        <div className="relative z-10 max-w-xl md:max-w-[50%] mx-4 md:mx-8 lg:mx-14 py-20">
           <p className="text-gold text-xs font-semibold tracking-[0.2em] uppercase mb-4">
             ROOFING SERVICES
           </p>
@@ -119,6 +119,24 @@ export default function RoofingContractorPage() {
             <span>Insured &amp; Bonded</span>
             <span>Serving 8 Counties</span>
           </div>
+        </div>
+      </section>
+
+      {/* Intro */}
+      <section className="py-24 bg-warmwhite">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            Roofing Contractor in Fayetteville TN and Northern Alabama
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Marberry Construction installs and replaces metal roofing on residential homes throughout Lincoln County, Giles County, Franklin County, and into Huntsville, Madison County, and Athens in Alabama. We specialize in metal roofing because it is simply the best choice for this climate. Standing seam and corrugated metal roofs outperform asphalt shingles in every category that matters in Southern Tennessee.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Tennessee weather is hard on roofs. Summers bring intense heat, UV exposure, and occasional hail. Winters bring ice dams, freeze-thaw cycles, and wind. A quality metal roof handles all of it without the cracking, lifting, and granule loss you get with shingles after 10 or 15 years. The extra upfront cost of metal pays for itself in lower maintenance, better insurance rates, and a roof that will outlast the house it is on.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            We install roofing on every custom home we build, and we also take on standalone roofing projects for existing homes. If your shingle roof is aging out, showing granule loss in the gutters, or if you have had repeated leak issues, a metal replacement is worth a serious look. We give honest assessments and free quotes throughout our service area.
+          </p>
         </div>
       </section>
 
@@ -159,6 +177,21 @@ export default function RoofingContractorPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Metal Roofing Costs */}
+      <section className="py-24 bg-white">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            Metal Roofing Costs in Tennessee and Alabama
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Metal roofing costs in this region typically run $8 to $14 per square foot installed for corrugated metal, and $14 to $22 per square foot for standing seam. The difference comes down to the profile, the gauge of the metal, and the pitch and complexity of your roof. A simple gable roof on a 1,500 square foot home costs significantly less per square foot to install than a complex hip roof with multiple valleys and dormers.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            Most homeowners replacing an aging shingle roof with metal in our service area spend between $12,000 and $35,000 depending on roof size and complexity. That is a real number, not a marketing range. We give itemized quotes so you know exactly what you are paying for. There are no surprises at the end of the job.
+          </p>
         </div>
       </section>
 

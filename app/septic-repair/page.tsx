@@ -91,18 +91,18 @@ export default function SepticRepairPage() {
       {/* Hero */}
       <section className="relative min-h-[80vh] flex items-center bg-navy">
         <div
-          className="absolute top-0 right-0 bottom-0 w-[55%]"
+          className="absolute top-0 right-0 bottom-0 w-[50%]"
           style={{
-            backgroundImage: 'url(/images/hero.jpeg)',
+            backgroundImage: 'url(/images/hero-septic-repair.jpeg)',
             backgroundSize: 'cover',
             backgroundPosition: '30% center',
           }}
         />
         <div
           className="absolute inset-0"
-          style={{ background: 'linear-gradient(to right, #1B2A4A 45%, transparent 45%)' }}
+          style={{ background: 'linear-gradient(to right, #1B2A4A 50%, transparent 50%)' }}
         />
-        <div className="relative z-10 max-w-xl md:max-w-[45%] mx-4 md:mx-8 lg:mx-14 py-20">
+        <div className="relative z-10 max-w-xl md:max-w-[50%] mx-4 md:mx-8 lg:mx-14 py-20">
           <p className="text-gold text-xs font-semibold tracking-[0.2em] uppercase mb-4">
             SEPTIC REPAIR
           </p>
@@ -126,6 +126,24 @@ export default function SepticRepairPage() {
             <span>Insured &amp; Bonded</span>
             <span>Serving 8 Counties</span>
           </div>
+        </div>
+      </section>
+
+      {/* Intro */}
+      <section className="py-24 bg-warmwhite">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            Septic Repair Services in Fayetteville TN and Surrounding Areas
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            A failing septic system is not something you can ignore. Left unaddressed, a failed drain field or cracked tank can contaminate groundwater, create health hazards on your property, and result in county violations. Marberry Construction diagnoses and repairs septic systems throughout Lincoln County, Giles County, Franklin County, and into Madison County and Limestone County in Alabama.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            Septic systems in this region typically last 20 to 40 years with proper maintenance. Systems that were installed in the 1980s and 1990s are reaching the end of their design life. Heavy clay soils in parts of Lincoln County and Giles County can accelerate drain field failure, especially in systems that were undersized for the home or that have been stressed by high water usage or non-biodegradable materials being flushed.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            Not every failing system needs a full replacement. In some cases, a clogged inlet baffle, a cracked distribution box, or a compacted drain field can be repaired or restored at a fraction of the cost of a new system. We always diagnose before we recommend. If a repair will solve the problem, we tell you that. If the system needs replacement, we tell you that too, along with a clear explanation of why.
+          </p>
         </div>
       </section>
 
@@ -169,6 +187,21 @@ export default function SepticRepairPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Repair vs Replace */}
+      <section className="py-24 bg-white">
+        <div className="max-w-6xl mx-auto px-6">
+          <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
+            When to Repair vs. Replace Your Septic System
+          </h2>
+          <p className="text-slate-600 text-base leading-relaxed mb-4">
+            The decision to repair or replace comes down to the age of the system, the extent of the damage, and the soil conditions in your drain field. A system under 20 years old with a specific, isolated problem like a broken baffle or a single crushed line is usually a good candidate for repair. A system over 30 years old with widespread drain field failure, a cracked or collapsed tank, or repeated backup issues is typically more cost-effective to replace.
+          </p>
+          <p className="text-slate-600 text-base leading-relaxed">
+            Septic repairs in our area typically run $500 to $3,000 for component-level fixes. A full system replacement runs $6,000 to $15,000 depending on lot conditions and system type. We give you a clear written estimate before any work begins so you can make an informed decision about repair versus replacement.
+          </p>
         </div>
       </section>
 
