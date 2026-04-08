@@ -107,7 +107,7 @@ export default function HomeAdditionsRemodelingPage() {
       {/* Hero */}
       <section className="relative min-h-[80vh] flex items-center bg-navy">
         <div
-          className="absolute top-0 right-0 bottom-0 w-[50%]"
+          className="hidden md:block absolute top-0 right-0 bottom-0 w-[50%]"
           style={{
             backgroundImage: 'url(/images/hero-additions.jpeg)',
             backgroundSize: 'cover',
@@ -118,7 +118,8 @@ export default function HomeAdditionsRemodelingPage() {
           className="absolute inset-0"
           style={{ background: 'linear-gradient(to right, #1B2A4A 50%, transparent 50%)' }}
         />
-        <div className="relative z-10 max-w-xl md:max-w-[50%] mx-4 md:mx-8 lg:mx-14 py-20">
+        <div className="relative z-10 max-w-6xl mx-auto px-6 md:px-16 py-24 w-full">
+          <div className="max-w-[45%]">
           <p className="text-gold text-xs font-semibold tracking-[0.2em] uppercase mb-4">
             HOME ADDITIONS AND REMODELING
           </p>
@@ -140,6 +141,7 @@ export default function HomeAdditionsRemodelingPage() {
             <span>TN Licensed #77673</span>
             <span>Insured &amp; Bonded</span>
             <span>Serving 8 Counties</span>
+          </div>
           </div>
         </div>
       </section>
