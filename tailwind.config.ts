@@ -9,8 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        navy: '#1B2A4A',
+        skyblue: '#3B8BD4',
+        gold: '#C9A84C',
+        warmwhite: '#F7F6F4',
+      },
+      fontFamily: {
+        playfair: ['var(--font-playfair)', 'serif'],
+        inter: ['var(--font-inter)', 'sans-serif'],
       },
     },
   },
