@@ -113,28 +113,28 @@ export default function HomeAdditionsFayettevillePage() {
       </section>
 
       {/* Trust Strip */}
-      <section className="py-12 bg-navy border-t border-white/10">
+      <section className="py-12 bg-white border-b border-slate-100">
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div className="flex flex-col items-center text-center gap-2">
               <CheckCircle size={32} className="text-gold" />
-              <p className="font-playfair text-2xl font-bold text-white">280+</p>
-              <p className="text-white/60 text-sm">Projects Completed</p>
+              <p className="font-playfair text-2xl font-bold text-navy">280+</p>
+              <p className="text-slate-500 text-sm">Projects Completed</p>
             </div>
             <div className="flex flex-col items-center text-center gap-2">
               <Shield size={32} className="text-gold" />
-              <p className="font-playfair text-2xl font-bold text-white">Licensed</p>
-              <p className="text-white/60 text-sm">TN &amp; AL</p>
+              <p className="font-playfair text-2xl font-bold text-navy">Licensed</p>
+              <p className="text-slate-500 text-sm">TN &amp; AL</p>
             </div>
             <div className="flex flex-col items-center text-center gap-2">
               <Phone size={32} className="text-gold" />
-              <p className="font-playfair text-2xl font-bold text-white">24 Hour</p>
-              <p className="text-white/60 text-sm">Response Time</p>
+              <p className="font-playfair text-2xl font-bold text-navy">24 Hour</p>
+              <p className="text-slate-500 text-sm">Response Time</p>
             </div>
             <div className="flex flex-col items-center text-center gap-2">
               <Star size={32} className="text-gold" />
-              <p className="font-playfair text-2xl font-bold text-white">Local</p>
-              <p className="text-white/60 text-sm">Family Business</p>
+              <p className="font-playfair text-2xl font-bold text-navy">Local</p>
+              <p className="text-slate-500 text-sm">Family Business</p>
             </div>
           </div>
         </div>
@@ -167,8 +167,8 @@ export default function HomeAdditionsFayettevillePage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-10">
             <div className="rounded-xl overflow-hidden aspect-video">
               <img
-                src="/images/hero-additions.jpeg"
-                alt="Home addition construction in Fayetteville TN by Marberry Construction"
+                src="/images/hero-additions2.jpeg"
+                alt="Home addition contractor Fayetteville Tennessee"
                 className="w-full h-full object-cover"
               />
             </div>

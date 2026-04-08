@@ -52,7 +52,7 @@ export default function Page() {
       <section className="relative min-h-[80vh] flex items-center bg-navy">
         {/* Image — covers only the right 55% of the section */}
         <div
-          className="hidden md:block absolute top-0 right-0 bottom-0 w-[55%]"
+          className="hidden md:block absolute top-0 right-0 bottom-0 w-[50%]"
           style={{
             backgroundImage: 'url(/images/hero.jpeg)',
             backgroundSize: 'cover',
@@ -62,7 +62,7 @@ export default function Page() {
         {/* Hard line at 45% */}
         <div
           className="absolute inset-0"
-          style={{ background: 'linear-gradient(to right, #1B2A4A 45%, transparent 45%)' }}
+          style={{ background: 'linear-gradient(to right, #1B2A4A 50%, transparent 50%)' }}
         />
 
         {/* Text content */}
