@@ -195,7 +195,7 @@ export default function RoofingContractorArdmorePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "One roof for the life of your home. That is what metal roofing delivers in the Ardmore area."
+            &quot;One roof for the life of your home. That is what metal roofing delivers in the Ardmore area.&quot;
           </p>
         </div>
       </section>

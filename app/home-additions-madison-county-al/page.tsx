@@ -158,7 +158,7 @@ export default function HomeAdditionsMadisonCountyPage() {
                 Marberry Construction builds home additions throughout rural Madison County. We are based in Fayetteville, Tennessee, just north of the state line, and we serve the communities of Harvest, Meridianville, New Market, Toney, Hazel Green, and Gurley as a regular part of our Alabama workload. Our Alabama license and experience with the Madison County Building Department means you are not working with a contractor who is learning the county permit system for the first time on your project.
               </p>
               <p className="text-slate-600 text-base leading-relaxed">
-                Families who built or bought homes in rural Madison County years ago and have since outgrown their space face a real choice: sell and move into the Huntsville metro, or expand what they already have. For homeowners on rural lots with land, space, and property values that have increased substantially with the metro's growth, building an addition is almost always the better call. You keep the acreage, you avoid the disruption of moving, and you get the space your household needs built exactly the way you want it.
+                Families who built or bought homes in rural Madison County years ago and have since outgrown their space face a real choice: sell and move into the Huntsville metro, or expand what they already have. For homeowners on rural lots with land, space, and property values that have increased substantially with the metro&apos;s growth, building an addition is almost always the better call. You keep the acreage, you avoid the disruption of moving, and you get the space your household needs built exactly the way you want it.
               </p>
             </div>
           </div>
@@ -199,7 +199,7 @@ export default function HomeAdditionsMadisonCountyPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Rural Madison County lots give you the space to build what you need. We build it to last."
+            &quot;Rural Madison County lots give you the space to build what you need. We build it to last.&quot;
           </p>
         </div>
       </section>

@@ -163,7 +163,7 @@ export default function SepticInstallationGilesCountyPage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Soil conditions in Giles County are mixed and vary by elevation and location across the county's rolling terrain. The Highland Rim geology that characterizes much of Middle Tennessee means some areas have good draining soils while others have heavier clay content that requires more careful system design. Properties at lower elevations and in creek drainage areas can have soils with poor natural drainage that affect drain field sizing and the type of system the county will approve. We assess your specific lot before recommending anything.
+            Soil conditions in Giles County are mixed and vary by elevation and location across the county&apos;s rolling terrain. The Highland Rim geology that characterizes much of Middle Tennessee means some areas have good draining soils while others have heavier clay content that requires more careful system design. Properties at lower elevations and in creek drainage areas can have soils with poor natural drainage that affect drain field sizing and the type of system the county will approve. We assess your specific lot before recommending anything.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most of our Giles County septic projects are new construction installs coordinated alongside a home build, or replacement installations on existing properties where the old system has reached end of life. We handle both and coordinate the septic permit timeline with the overall build schedule on new construction projects so the system is installed and inspected at the right point in the construction sequence.
@@ -181,7 +181,7 @@ export default function SepticInstallationGilesCountyPage() {
             Septic installation in Tennessee requires county health department approval before any work begins. The Giles County Health Department administers this process and works within TDEC standards for system design, installation, and inspection. The application package requires a site evaluation, a soil profile, and a system design that addresses the specific conditions on your lot. Once approved, the installation must be completed and inspected before the system can be placed in service.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
-            Permit timelines in Giles County typically run 3 to 8 weeks from application to approval depending on the health department's current workload and whether the soil evaluation produces any complications. We submit complete, well-documented applications and follow up with the county throughout the process. For new construction clients, the septic permit timeline is factored into the overall build schedule from the start so nothing stalls mid-project waiting on county approvals.
+            Permit timelines in Giles County typically run 3 to 8 weeks from application to approval depending on the health department&apos;s current workload and whether the soil evaluation produces any complications. We submit complete, well-documented applications and follow up with the county throughout the process. For new construction clients, the septic permit timeline is factored into the overall build schedule from the start so nothing stalls mid-project waiting on county approvals.
           </p>
           <h3 className="font-semibold text-navy text-lg mb-4">Our installation process from start to finish:</h3>
           <ul className="space-y-3">
@@ -199,7 +199,7 @@ export default function SepticInstallationGilesCountyPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "In Giles County, we know the health department process and the soil conditions. We handle it all so you do not have to."
+            &quot;In Giles County, we know the health department process and the soil conditions. We handle it all so you do not have to.&quot;
           </p>
         </div>
       </section>

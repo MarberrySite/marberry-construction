@@ -202,7 +202,7 @@ export default function CustomHomeBuilderHuntsvillePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Building just outside Huntsville means land, space, and a custom home for what a production builder charges for a subdivision lot."
+            &quot;Building just outside Huntsville means land, space, and a custom home for what a production builder charges for a subdivision lot.&quot;
           </p>
         </div>
       </section>

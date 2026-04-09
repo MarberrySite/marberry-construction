@@ -199,7 +199,7 @@ export default function CustomHomeBuilderArdmorePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Ardmore is where Tennessee meets Alabama. We build on both sides and know both permit systems."
+            &quot;Ardmore is where Tennessee meets Alabama. We build on both sides and know both permit systems.&quot;
           </p>
         </div>
       </section>
@@ -229,7 +229,7 @@ export default function CustomHomeBuilderArdmorePage() {
             We serve the full Ardmore community and the surrounding areas on both sides of the state line. That includes Elkmont and Tanner to the south in Limestone County, Athens further into Alabama, and the rural areas of Lincoln County to the north. Hazel Green, across the line in Madison County, is also part of our regular service area.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Marberry Construction's dual-state licensure and experience on both sides of the TN-AL border is a genuine advantage for Ardmore-area clients. We have pulled permits in both Lincoln County and Limestone County and know how the processes differ. When your property is in a border community, working with a contractor who knows both systems saves time and prevents the permit delays that contractors unfamiliar with the area routinely encounter.
+            Marberry Construction&apos;s dual-state licensure and experience on both sides of the TN-AL border is a genuine advantage for Ardmore-area clients. We have pulled permits in both Lincoln County and Limestone County and know how the processes differ. When your property is in a border community, working with a contractor who knows both systems saves time and prevents the permit delays that contractors unfamiliar with the area routinely encounter.
           </p>
         </div>
       </section>

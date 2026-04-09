@@ -158,7 +158,7 @@ export default function HomeAdditionsWinchesterPage() {
                 Marberry Construction builds home additions throughout Winchester and Franklin County, Tennessee. Whether you need an extra bedroom, a larger kitchen, an attached garage, or a covered porch, we build additions that match your existing home in structure, materials, and appearance. Most of our Franklin County addition clients have outgrown their current home but have no interest in moving. Adding on is almost always the smarter financial move when you own land you like and the cost of buying something larger would mean taking on a significantly larger mortgage.
               </p>
               <p className="text-slate-600 text-base leading-relaxed">
-                Winchester homeowners are staying put and expanding in the current market rather than trying to sell and find something larger at today's prices. A second child, a parent moving in, or more time spent working from home have made the need for more space real for a lot of Franklin County families. Building an addition on your existing property is the most cost-effective path to getting that space without disrupting where you live or the community you have settled into.
+                Winchester homeowners are staying put and expanding in the current market rather than trying to sell and find something larger at today&apos;s prices. A second child, a parent moving in, or more time spent working from home have made the need for more space real for a lot of Franklin County families. Building an addition on your existing property is the most cost-effective path to getting that space without disrupting where you live or the community you have settled into.
               </p>
             </div>
           </div>
@@ -199,7 +199,7 @@ export default function HomeAdditionsWinchesterPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Most of our Winchester clients have outgrown their home but love their land. We build the space they need around the life they have built."
+            &quot;Most of our Winchester clients have outgrown their home but love their land. We build the space they need around the life they have built.&quot;
           </p>
         </div>
       </section>

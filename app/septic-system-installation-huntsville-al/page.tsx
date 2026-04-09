@@ -163,7 +163,7 @@ export default function SepticInstallationHuntsvillePage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Red clay soils are common throughout the Huntsville area and much of the Tennessee Valley. Clay is what makes this region's soil what it is, and it has real implications for septic system design. Clay drains slowly, which affects drain field sizing, the type of system that can be approved on a given lot, and the long-term performance of the system once it is installed. We account for soil conditions in every system we design and install. A properly designed system on clay soil works well for decades. A system that was sized for sandy loam and installed on clay will fail early.
+            Red clay soils are common throughout the Huntsville area and much of the Tennessee Valley. Clay is what makes this region&apos;s soil what it is, and it has real implications for septic system design. Clay drains slowly, which affects drain field sizing, the type of system that can be approved on a given lot, and the long-term performance of the system once it is installed. We account for soil conditions in every system we design and install. A properly designed system on clay soil works well for decades. A system that was sized for sandy loam and installed on clay will fail early.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most of our Madison County septic projects are either new construction installs coordinated with a full home build, or replacement installations on existing properties where the old system has failed or where a property is being developed for the first time. We handle both and we work on both sides of the state line, so if your project crosses from Alabama into Limestone County or Lincoln County, Tennessee, we know the requirements on each side.
@@ -181,7 +181,7 @@ export default function SepticInstallationHuntsvillePage() {
             In Alabama, septic system installation requires approval through the county health department before any work begins. The Madison County Health Department oversees this process for unincorporated properties in the county. The application requires a site evaluation, a soil morphology report, and an approved system design. The Alabama Department of Public Health sets the standards that the county enforces, and the county inspection at the end of the installation is required before the system can be placed into service.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
-            The permit timeline in Madison County typically runs 3 to 6 weeks from application to approval depending on the health department's workload and whether any issues arise during the soil evaluation. We submit complete applications and follow up with the county throughout the process. For new construction projects, the septic permit timeline factors into the overall build schedule so that the system is installed and inspected at the right point in the construction sequence.
+            The permit timeline in Madison County typically runs 3 to 6 weeks from application to approval depending on the health department&apos;s workload and whether any issues arise during the soil evaluation. We submit complete applications and follow up with the county throughout the process. For new construction projects, the septic permit timeline factors into the overall build schedule so that the system is installed and inspected at the right point in the construction sequence.
           </p>
           <h3 className="font-semibold text-navy text-lg mb-4">Our installation process from start to finish:</h3>
           <ul className="space-y-3">
@@ -199,7 +199,7 @@ export default function SepticInstallationHuntsvillePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "We handle the permit, the install, and the inspection on both sides of the Tennessee-Alabama state line."
+            &quot;We handle the permit, the install, and the inspection on both sides of the Tennessee-Alabama state line.&quot;
           </p>
         </div>
       </section>

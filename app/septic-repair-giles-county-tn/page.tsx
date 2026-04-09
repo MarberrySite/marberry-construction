@@ -158,7 +158,7 @@ export default function SepticRepairGilesCountyPage() {
                 Giles County has a significant number of homes with septic systems installed in the 1980s and 1990s that are now at or approaching the end of their design life. Systems that were properly maintained on well-draining soils can function for 30 to 40 years. Systems installed on heavier clay soils, undersized for the home they serve, or that have gone without maintenance often begin showing failure signs much sooner.
               </p>
               <p className="text-slate-600 text-base leading-relaxed">
-                Clay-heavy soils are present in portions of Giles County, particularly at lower elevations and in areas with limited natural drainage. Clay soils absorb wastewater slowly, and a drain field that is functioning at capacity during dry conditions can fail quickly during wet Tennessee springs when the soil's absorption capacity drops to near zero. When the drain field saturates and cannot accept more wastewater, the system backs up toward the house.
+                Clay-heavy soils are present in portions of Giles County, particularly at lower elevations and in areas with limited natural drainage. Clay soils absorb wastewater slowly, and a drain field that is functioning at capacity during dry conditions can fail quickly during wet Tennessee springs when the soil&apos;s absorption capacity drops to near zero. When the drain field saturates and cannot accept more wastewater, the system backs up toward the house.
               </p>
             </div>
           </div>
@@ -199,7 +199,7 @@ export default function SepticRepairGilesCountyPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Most Giles County septic failures give warning signs before they become emergencies. Do not ignore them."
+            &quot;Most Giles County septic failures give warning signs before they become emergencies. Do not ignore them.&quot;
           </p>
         </div>
       </section>

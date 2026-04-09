@@ -199,7 +199,7 @@ export default function SepticInstallationTaftPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Southern Lincoln County is our home territory. We know the soil, the county process, and how to get your permit approved."
+            &quot;Southern Lincoln County is our home territory. We know the soil, the county process, and how to get your permit approved.&quot;
           </p>
         </div>
       </section>

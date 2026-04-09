@@ -155,7 +155,7 @@ export default function SepticRepairArdmorePage() {
             </div>
             <div>
               <p className="text-slate-600 text-base leading-relaxed mb-4">
-                Many homes in the Ardmore area were built several decades ago, and the septic systems installed alongside them are now aging toward or past the end of their design life. The border region's mix of soil types means performance varies widely from property to property. Systems installed on well-draining lots can function for 30 to 40 years with proper maintenance. Systems on clay-heavy ground or that were undersized from the start often show failure signs much earlier.
+                Many homes in the Ardmore area were built several decades ago, and the septic systems installed alongside them are now aging toward or past the end of their design life. The border region&apos;s mix of soil types means performance varies widely from property to property. Systems installed on well-draining lots can function for 30 to 40 years with proper maintenance. Systems on clay-heavy ground or that were undersized from the start often show failure signs much earlier.
               </p>
               <p className="text-slate-600 text-base leading-relaxed">
                 Marberry Construction serves both sides of the Ardmore community for septic repair and replacement. We are based 20 miles north in Fayetteville and can reach most Ardmore properties within one to two business days for a site assessment. We diagnose the system before making any recommendation, and we are direct about what we find. If a repair will solve the problem, we say so. If replacement is the right call, we explain why.
@@ -163,7 +163,7 @@ export default function SepticRepairArdmorePage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            The border position of Ardmore creates one practical complication for septic repair work: replacement permits on the Tennessee side run through Lincoln County and the state TDEC process, while Alabama-side replacements require Limestone County Health Department approval under Alabama Department of Public Health standards. Both systems have different timelines and requirements. We handle both and have done so on properties throughout the area. You do not need to sort out which state's process applies to your property.
+            The border position of Ardmore creates one practical complication for septic repair work: replacement permits on the Tennessee side run through Lincoln County and the state TDEC process, while Alabama-side replacements require Limestone County Health Department approval under Alabama Department of Public Health standards. Both systems have different timelines and requirements. We handle both and have done so on properties throughout the area. You do not need to sort out which state&apos;s process applies to your property.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             A failing septic system does not improve on its own. Catching it early when a targeted repair is still viable is always less expensive than allowing the situation to worsen to the point where full replacement is the only option. If you have noticed any of the typical warning signs at your Ardmore property, call us to schedule a site visit.
@@ -199,7 +199,7 @@ export default function SepticRepairArdmorePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Early diagnosis in Ardmore saves thousands. We tell you what is wrong before recommending what to do about it."
+            &quot;Early diagnosis in Ardmore saves thousands. We tell you what is wrong before recommending what to do about it.&quot;
           </p>
         </div>
       </section>

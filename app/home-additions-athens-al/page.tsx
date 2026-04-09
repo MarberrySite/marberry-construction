@@ -178,7 +178,7 @@ export default function HomeAdditionsAthensPage() {
             What We Build in Athens and Limestone County
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Home additions in Limestone County require a building permit through the Limestone County Building Department. The process involves construction drawings, setback and easement verification, and trade permits for electrical, mechanical, and plumbing work. We handle the full submission and follow up with the county throughout. For Alabama-side projects, we are familiar with Limestone County's specific requirements and the inspection sequence the county uses for residential addition projects.
+            Home additions in Limestone County require a building permit through the Limestone County Building Department. The process involves construction drawings, setback and easement verification, and trade permits for electrical, mechanical, and plumbing work. We handle the full submission and follow up with the county throughout. For Alabama-side projects, we are familiar with Limestone County&apos;s specific requirements and the inspection sequence the county uses for residential addition projects.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
             Matching the existing home is a priority on every project. An addition that looks like it belongs to the house adds value in a way that a visibly different structure does not. We source matching siding, roofing, trim, and window profiles and pay attention to roofline alignment so the result looks like part of the original home from every angle.
@@ -199,7 +199,7 @@ export default function HomeAdditionsAthensPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Athens homeowners are sitting on rising property values. A well-built addition compounds that value even further."
+            &quot;Athens homeowners are sitting on rising property values. A well-built addition compounds that value even further.&quot;
           </p>
         </div>
       </section>

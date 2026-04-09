@@ -181,7 +181,7 @@ export default function CustomHomeBuilderGilesCountyPage() {
             New home construction in Giles County goes through the Giles County Building Department. The process requires a building permit, construction drawings, and for rural lots without sewer access a separate septic permit through the Giles County Health Department. Most rural properties in Giles County are not connected to municipal sewer, which means the septic system is part of nearly every build we do in the county. We handle both permits and manage the full submission process on your behalf.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
-            Soil conditions in Giles County vary by location. Properties on higher ground across the county's rolling terrain often have good drainage characteristics. Lower elevations and areas with heavier clay content require more careful attention to foundation design and drain field sizing. We walk every lot before finalizing a build plan to make sure the design accounts for the conditions on your specific property.
+            Soil conditions in Giles County vary by location. Properties on higher ground across the county&apos;s rolling terrain often have good drainage characteristics. Lower elevations and areas with heavier clay content require more careful attention to foundation design and drain field sizing. We walk every lot before finalizing a build plan to make sure the design accounts for the conditions on your specific property.
           </p>
           <h3 className="font-semibold text-navy text-lg mb-4">What we handle on every build:</h3>
           <ul className="space-y-3">
@@ -199,7 +199,7 @@ export default function CustomHomeBuilderGilesCountyPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Giles County has the land, the space, and the value. We bring the expertise to build your custom home on it."
+            &quot;Giles County has the land, the space, and the value. We bring the expertise to build your custom home on it.&quot;
           </p>
         </div>
       </section>

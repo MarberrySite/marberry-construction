@@ -163,7 +163,7 @@ export default function SepticInstallationWinchesterPage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Soil conditions in the Winchester area are varied and worth understanding before a system is designed. Franklin County sits at the edge of the Highland Rim and the Cumberland Plateau, which means soil composition changes significantly depending on where your property is located. Some parts of the county have limestone-based soils with good drainage characteristics. Other areas have heavier clay content that drains more slowly and requires a larger drain field or an alternative system design. We assess your lot's specific soil before recommending a system type.
+            Soil conditions in the Winchester area are varied and worth understanding before a system is designed. Franklin County sits at the edge of the Highland Rim and the Cumberland Plateau, which means soil composition changes significantly depending on where your property is located. Some parts of the county have limestone-based soils with good drainage characteristics. Other areas have heavier clay content that drains more slowly and requires a larger drain field or an alternative system design. We assess your lot&apos;s specific soil before recommending a system type.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most of our Franklin County septic projects are either new construction installs coordinated with a home build or replacement installations on existing properties where the old system has reached end of life. We handle both and we know the Franklin County Health Department process well. For new construction clients, the septic permit timeline factors into the overall build schedule so the system is installed and inspected at the right point in the construction sequence.
@@ -181,7 +181,7 @@ export default function SepticInstallationWinchesterPage() {
             In Tennessee, septic system installation requires approval through the county health department before any work begins. The Franklin County Health Department administers this process under Tennessee Department of Environment and Conservation standards. The application requires a site evaluation, a soil morphology report, and an approved system design. Once the permit is approved, installation must be completed and inspected before the system can be placed into service.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
-            The permit timeline in Franklin County typically runs 3 to 8 weeks from application to approval depending on the health department's workload and whether any issues arise during the soil evaluation. We submit complete applications and follow up with the county throughout the process. For new construction projects, the septic permit timeline factors into the overall build schedule so nothing stalls mid-project waiting on permit approval.
+            The permit timeline in Franklin County typically runs 3 to 8 weeks from application to approval depending on the health department&apos;s workload and whether any issues arise during the soil evaluation. We submit complete applications and follow up with the county throughout the process. For new construction projects, the septic permit timeline factors into the overall build schedule so nothing stalls mid-project waiting on permit approval.
           </p>
           <h3 className="font-semibold text-navy text-lg mb-4">Our installation process from start to finish:</h3>
           <ul className="space-y-3">
@@ -199,7 +199,7 @@ export default function SepticInstallationWinchesterPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "We handle the full permit process in Franklin County so you can focus on building your home, not navigating county paperwork."
+            &quot;We handle the full permit process in Franklin County so you can focus on building your home, not navigating county paperwork.&quot;
           </p>
         </div>
       </section>

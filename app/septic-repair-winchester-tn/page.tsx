@@ -158,7 +158,7 @@ export default function SepticRepairWinchesterPage() {
                 Franklin County has a significant number of homes with septic systems installed in the 1970s, 1980s, and 1990s that are now at or past the end of their design life. Systems that were properly sized and maintained can last 30 to 40 years. Systems installed on marginal soil, undersized for the home they serve, or neglected over the years often show signs of failure well before that. If your home was built before 2000 and you have never had a full system assessment, it is worth having the system evaluated before a failure forces the issue.
               </p>
               <p className="text-slate-600 text-base leading-relaxed">
-                Soil conditions in the Winchester area affect how long septic systems last. The mix of limestone-based and clay-heavy soils in Franklin County means drain field performance varies significantly from lot to lot. Properties with good drainage can maintain functional systems well past their design life. Properties where clay dominates the drain field zone can see premature saturation and failure, particularly during wet seasons when the soil's absorption capacity is already at its limit.
+                Soil conditions in the Winchester area affect how long septic systems last. The mix of limestone-based and clay-heavy soils in Franklin County means drain field performance varies significantly from lot to lot. Properties with good drainage can maintain functional systems well past their design life. Properties where clay dominates the drain field zone can see premature saturation and failure, particularly during wet seasons when the soil&apos;s absorption capacity is already at its limit.
               </p>
             </div>
           </div>
@@ -199,7 +199,7 @@ export default function SepticRepairWinchesterPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "A failing septic system in Franklin County does not fix itself. Early diagnosis saves thousands compared to emergency replacement."
+            &quot;A failing septic system in Franklin County does not fix itself. Early diagnosis saves thousands compared to emergency replacement.&quot;
           </p>
         </div>
       </section>

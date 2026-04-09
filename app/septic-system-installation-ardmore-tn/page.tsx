@@ -181,7 +181,7 @@ export default function SepticInstallationArdmorePage() {
             The septic permit process for properties near Ardmore depends entirely on which state your property is in. Tennessee-side properties in Lincoln County go through the Lincoln County Health Department under Tennessee Department of Environment and Conservation standards. Alabama-side properties in Limestone County go through the Limestone County Health Department under Alabama Department of Public Health standards. The two states have different application requirements, different approval timelines, and different system standards.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
-            Marberry Construction is familiar with both systems. We know which forms to file, which agencies to coordinate with, and what each state's inspection process looks like at the end of the project. For Ardmore-area clients, that dual-state experience is not a selling point. It is a practical necessity that saves time and prevents the problems that come with working with a contractor who only knows one side of the line.
+            Marberry Construction is familiar with both systems. We know which forms to file, which agencies to coordinate with, and what each state&apos;s inspection process looks like at the end of the project. For Ardmore-area clients, that dual-state experience is not a selling point. It is a practical necessity that saves time and prevents the problems that come with working with a contractor who only knows one side of the line.
           </p>
           <h3 className="font-semibold text-navy text-lg mb-4">How the border permit process works:</h3>
           <ul className="space-y-3">
@@ -199,7 +199,7 @@ export default function SepticInstallationArdmorePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "We know both the Tennessee and Alabama septic permit systems. You do not have to figure out which side of the line you are on."
+            &quot;We know both the Tennessee and Alabama septic permit systems. You do not have to figure out which side of the line you are on.&quot;
           </p>
         </div>
       </section>

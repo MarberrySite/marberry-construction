@@ -163,7 +163,7 @@ export default function CustomHomeBuilderMadisonCountyPage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            The appeal of building in unincorporated Madison County has grown substantially as the Huntsville metro has expanded. Workers at Redstone Arsenal, Cummings Research Park, and the broader Huntsville technology and defense corridor who want rural land and a custom home are finding that the communities across the northern and eastern stretches of Madison County deliver exactly that, with commutes that are manageable and land prices that have not yet fully reflected the metro's growth pressure.
+            The appeal of building in unincorporated Madison County has grown substantially as the Huntsville metro has expanded. Workers at Redstone Arsenal, Cummings Research Park, and the broader Huntsville technology and defense corridor who want rural land and a custom home are finding that the communities across the northern and eastern stretches of Madison County deliver exactly that, with commutes that are manageable and land prices that have not yet fully reflected the metro&apos;s growth pressure.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Marberry builds on your lot with no developer, no subdivision, and no preset floor plans. Brandon Marberry oversees every build personally from the first site visit through the final walkthrough. There are no project managers between you and the person responsible for building your home.
@@ -199,7 +199,7 @@ export default function CustomHomeBuilderMadisonCountyPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Unincorporated Madison County is where Huntsville professionals come to build the home they actually want on land they actually own."
+            &quot;Unincorporated Madison County is where Huntsville professionals come to build the home they actually want on land they actually own.&quot;
           </p>
         </div>
       </section>

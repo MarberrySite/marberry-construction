@@ -163,7 +163,7 @@ export default function SepticRepairMadisonCountyPage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Madison County red clay is the single biggest factor in drain field failures across this area. Alabama's red clay drains slowly under the best conditions. Over years of use, drain fields in clay-dominant soil accumulate biomat buildup that further reduces already limited absorption capacity. Wet seasons push clay soils to saturation, causing wastewater to surface or back up toward the house. Properties that have been in this condition for years without diagnosis have fewer repair options than properties where problems are caught early.
+            Madison County red clay is the single biggest factor in drain field failures across this area. Alabama&apos;s red clay drains slowly under the best conditions. Over years of use, drain fields in clay-dominant soil accumulate biomat buildup that further reduces already limited absorption capacity. Wet seasons push clay soils to saturation, causing wastewater to surface or back up toward the house. Properties that have been in this condition for years without diagnosis have fewer repair options than properties where problems are caught early.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             We diagnose before recommending. Every site assessment includes a full system evaluation before we tell you what it needs. If a targeted repair will resolve the problem, we provide a written estimate for that repair. If the system is at end of life and replacement is the right answer, we explain exactly why. We do not recommend replacement on systems that still have viable repair options.
@@ -199,7 +199,7 @@ export default function SepticRepairMadisonCountyPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Madison County red clay is hard on drain fields. We know what to look for and we fix it right."
+            &quot;Madison County red clay is hard on drain fields. We know what to look for and we fix it right.&quot;
           </p>
         </div>
       </section>

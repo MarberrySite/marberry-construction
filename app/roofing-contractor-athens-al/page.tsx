@@ -154,10 +154,10 @@ export default function RoofingContractorAthensPage() {
             </div>
             <div>
               <p className="text-slate-600 text-base leading-relaxed mb-4">
-                Marberry Construction serves Athens and Limestone County from our Fayetteville, Tennessee base about 30 miles to the north. We install and replace metal roofing on residential homes throughout Limestone County and have worked in the Athens area on both roofing and construction projects. Metal roofing is our specialty, and Northern Alabama's climate makes the case for metal better than any sales pitch we could give.
+                Marberry Construction serves Athens and Limestone County from our Fayetteville, Tennessee base about 30 miles to the north. We install and replace metal roofing on residential homes throughout Limestone County and have worked in the Athens area on both roofing and construction projects. Metal roofing is our specialty, and Northern Alabama&apos;s climate makes the case for metal better than any sales pitch we could give.
               </p>
               <p className="text-slate-600 text-base leading-relaxed">
-                Alabama's climate is demanding on roofing in ways that compound over time. Athens and Limestone County see intense summer UV that breaks down asphalt binder, hot and humid conditions that accelerate granule loss, severe spring thunderstorm seasons with hail and high winds, and occasional winter ice events that get under lifted shingle tabs and accelerate failure. Metal roofing is not affected by any of these conditions in the way that asphalt shingles are. A metal roof in Athens handles the full Alabama weather range without degrading.
+                Alabama&apos;s climate is demanding on roofing in ways that compound over time. Athens and Limestone County see intense summer UV that breaks down asphalt binder, hot and humid conditions that accelerate granule loss, severe spring thunderstorm seasons with hail and high winds, and occasional winter ice events that get under lifted shingle tabs and accelerate failure. Metal roofing is not affected by any of these conditions in the way that asphalt shingles are. A metal roof in Athens handles the full Alabama weather range without degrading.
               </p>
             </div>
           </div>
@@ -165,7 +165,7 @@ export default function RoofingContractorAthensPage() {
             Metal roofing has grown significantly in popularity throughout Northern Alabama over the past decade. Homeowners in the Athens area who have watched neighbors cycle through shingle roofs at 15 to 20-year intervals are making the switch. The math is straightforward: metal costs more at installation and nothing for the next 40 to 70 years. Shingles cost less at installation and require replacement twice or more in the same timeframe, plus maintenance cycles in between.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            We install standing seam and corrugated metal roofing on residential homes throughout Limestone County. Standing seam is the premium option with concealed fasteners and a clean profile suited for lower-pitch roofs. Corrugated is a highly durable, cost-effective choice for steeper pitch applications and older home profiles. Both options significantly outperform shingles in every performance category that matters in Alabama's climate.
+            We install standing seam and corrugated metal roofing on residential homes throughout Limestone County. Standing seam is the premium option with concealed fasteners and a clean profile suited for lower-pitch roofs. Corrugated is a highly durable, cost-effective choice for steeper pitch applications and older home profiles. Both options significantly outperform shingles in every performance category that matters in Alabama&apos;s climate.
           </p>
         </div>
       </section>
@@ -198,7 +198,7 @@ export default function RoofingContractorAthensPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Athens is in the path of serious Alabama weather. Metal roofing handles it. Shingles eventually do not."
+            &quot;Athens is in the path of serious Alabama weather. Metal roofing handles it. Shingles eventually do not.&quot;
           </p>
         </div>
       </section>

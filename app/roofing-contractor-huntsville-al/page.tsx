@@ -157,7 +157,7 @@ export default function RoofingContractorHuntsvillePage() {
                 Marberry Construction serves the Huntsville area from our base in Fayetteville, Tennessee, roughly 35 miles to the north. We install and replace metal roofing on residential homes throughout Madison County, Limestone County, and the Huntsville metro. Metal roofing is our specialty because it is the best long-term choice for this climate.
               </p>
               <p className="text-slate-600 text-base leading-relaxed">
-                Alabama's climate is hard on roofing. Huntsville and Madison County see hot, humid summers, severe spring thunderstorms, occasional hail, and winter ice storms that stress asphalt shingles in ways most homeowners do not appreciate until their roof is failing at year 12 or 15. Metal roofing handles all of it without the cracking, lifting, and granule loss that shingles develop over time.
+                Alabama&apos;s climate is hard on roofing. Huntsville and Madison County see hot, humid summers, severe spring thunderstorms, occasional hail, and winter ice storms that stress asphalt shingles in ways most homeowners do not appreciate until their roof is failing at year 12 or 15. Metal roofing handles all of it without the cracking, lifting, and granule loss that shingles develop over time.
               </p>
             </div>
           </div>
@@ -177,7 +177,7 @@ export default function RoofingContractorHuntsvillePage() {
             Why Metal Roofing is the Right Choice Near Huntsville
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Shingle roofing in the Huntsville area typically lasts 15 to 20 years before it needs replacement. In that same time frame, a metal roof installed correctly will not need replacement at all. The Tennessee Valley climate, with its combination of intense summer UV, freeze-thaw cycles in winter, and severe storm seasons in spring and fall, accelerates wear on asphalt shingles faster than the manufacturer's rated lifespan suggests. Metal simply does not have those failure modes.
+            Shingle roofing in the Huntsville area typically lasts 15 to 20 years before it needs replacement. In that same time frame, a metal roof installed correctly will not need replacement at all. The Tennessee Valley climate, with its combination of intense summer UV, freeze-thaw cycles in winter, and severe storm seasons in spring and fall, accelerates wear on asphalt shingles faster than the manufacturer&apos;s rated lifespan suggests. Metal simply does not have those failure modes.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
             We install standing seam and corrugated metal roofing on residential homes throughout the Huntsville area. Standing seam is the premium option with concealed fasteners and a clean profile suited for lower-pitch roofs. Corrugated is well-suited for higher-pitch applications and is a cost-effective, durable choice. Both profiles outperform shingles in every category that matters in Northern Alabama.
@@ -198,7 +198,7 @@ export default function RoofingContractorHuntsvillePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "A metal roof installed correctly will outlast the house it is on. That is what we install near Huntsville."
+            &quot;A metal roof installed correctly will outlast the house it is on. That is what we install near Huntsville.&quot;
           </p>
         </div>
       </section>

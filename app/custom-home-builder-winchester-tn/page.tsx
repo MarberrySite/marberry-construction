@@ -199,7 +199,7 @@ export default function CustomHomeBuilderWinchesterPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Franklin County has some of the most beautiful building land in Tennessee. We help you build on it right."
+            &quot;Franklin County has some of the most beautiful building land in Tennessee. We help you build on it right.&quot;
           </p>
         </div>
       </section>

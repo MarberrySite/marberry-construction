@@ -163,7 +163,7 @@ export default function SepticInstallationAthensPage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Soil conditions in the Athens area are heavily influenced by the Alabama red clay that characterizes much of Northern Alabama. Clay soils drain slowly, which directly affects how a septic system is designed for your lot. Clay-heavy soil requires larger drain fields or, in some cases, an alternative system type that manages effluent differently than a conventional gravity-fed field. We assess your lot's specific soil before recommending a system, and we explain what the soil findings mean for system type and cost before any design work begins.
+            Soil conditions in the Athens area are heavily influenced by the Alabama red clay that characterizes much of Northern Alabama. Clay soils drain slowly, which directly affects how a septic system is designed for your lot. Clay-heavy soil requires larger drain fields or, in some cases, an alternative system type that manages effluent differently than a conventional gravity-fed field. We assess your lot&apos;s specific soil before recommending a system, and we explain what the soil findings mean for system type and cost before any design work begins.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Limestone County has seen rapid residential growth as the Huntsville metro expands northwest. That growth means more new septic installations on rural lots throughout the county, many of which have the clay-heavy soil conditions that require careful system design. We account for those conditions from the start of every project. A system designed correctly for the soil it sits in functions well for decades. A system designed for different conditions will fail early on Limestone County clay.
@@ -199,7 +199,7 @@ export default function SepticInstallationAthensPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Limestone County septic permits go through the Alabama Department of Public Health. We handle every step of that process."
+            &quot;Limestone County septic permits go through the Alabama Department of Public Health. We handle every step of that process.&quot;
           </p>
         </div>
       </section>

@@ -162,7 +162,7 @@ export default function RoofingContractorTaftPage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Most homes in the Taft area with shingle roofs that have been in place for more than a decade are showing the early signs of degradation, whether the homeowner is aware of it or not. Granule accumulation in gutters, visible lifting at tabs, minor soft spots in the sheathing behind penetrations, and fading color are all indicators that the roof's effective life is shortening. Metal replacement at that stage prevents the leak cycles and repair costs that occupy the last 5 to 8 years of a shingle roof's life.
+            Most homes in the Taft area with shingle roofs that have been in place for more than a decade are showing the early signs of degradation, whether the homeowner is aware of it or not. Granule accumulation in gutters, visible lifting at tabs, minor soft spots in the sheathing behind penetrations, and fading color are all indicators that the roof&apos;s effective life is shortening. Metal replacement at that stage prevents the leak cycles and repair costs that occupy the last 5 to 8 years of a shingle roof&apos;s life.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             We give free on-site estimates throughout southern Lincoln County and the Taft area. We assess the current roof condition, give an honest read on its remaining useful life, and provide a detailed written estimate for metal replacement so you know exactly what the project will cost before committing.
@@ -180,7 +180,7 @@ export default function RoofingContractorTaftPage() {
             The case for metal roofing in the Taft area is the same as it is throughout the rest of Lincoln County and the Tennessee Valley. A shingle roof installed today will need replacement in 15 to 20 years. The homeowner who installs metal today replaces it zero times in the next 40 to 70 years. Over that horizon, the higher upfront cost of metal is recovered entirely within the first replacement cycle that the metal roof avoids, with additional savings from lower maintenance costs and insurance premium reductions stacking year over year.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
-            We install standing seam and corrugated metal roofing depending on the application and the homeowner's preference. Standing seam has concealed fasteners and a clean, modern profile that works well on lower-pitch roofs. Corrugated is extremely durable, cost-effective, and well-suited for the steeper roof pitches common on older homes throughout the southern Lincoln County area.
+            We install standing seam and corrugated metal roofing depending on the application and the homeowner&apos;s preference. Standing seam has concealed fasteners and a clean, modern profile that works well on lower-pitch roofs. Corrugated is extremely durable, cost-effective, and well-suited for the steeper roof pitches common on older homes throughout the southern Lincoln County area.
           </p>
           <h3 className="font-semibold text-navy text-lg mb-4">Why metal outperforms shingles near Taft:</h3>
           <ul className="space-y-3">
@@ -198,7 +198,7 @@ export default function RoofingContractorTaftPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "A metal roof on a Taft area home will outlast the mortgage. That is the investment homeowners are making."
+            &quot;A metal roof on a Taft area home will outlast the mortgage. That is the investment homeowners are making.&quot;
           </p>
         </div>
       </section>

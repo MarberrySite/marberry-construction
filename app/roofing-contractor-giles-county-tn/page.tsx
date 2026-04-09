@@ -162,7 +162,7 @@ export default function RoofingContractorGilesCountyPage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Giles County has a significant number of homes with shingle roofs that are approaching or past the point where replacement is the right decision. Many of these homeowners replaced shingles once already and are ready to make a different choice the second time. Metal roofing's higher upfront cost is offset over time by zero maintenance, better storm performance, and lower insurance premiums. Over a 40-year horizon, the homeowner who chose metal replaces their roof zero times.
+            Giles County has a significant number of homes with shingle roofs that are approaching or past the point where replacement is the right decision. Many of these homeowners replaced shingles once already and are ready to make a different choice the second time. Metal roofing&apos;s higher upfront cost is offset over time by zero maintenance, better storm performance, and lower insurance premiums. Over a 40-year horizon, the homeowner who chose metal replaces their roof zero times.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             We install standing seam and corrugated metal roofing on residential homes throughout Giles County and Pulaski. Standing seam has concealed fasteners and a clean profile well-suited to lower-pitch roofs. Corrugated is extremely durable, cost-effective, and works well on steeper pitches common to older Giles County homes. Both options outperform shingles by a wide margin in this climate.
@@ -198,7 +198,7 @@ export default function RoofingContractorGilesCountyPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Giles County homeowners who switch to metal never go back to shingles. The math is clear over a 40-year horizon."
+            &quot;Giles County homeowners who switch to metal never go back to shingles. The math is clear over a 40-year horizon.&quot;
           </p>
         </div>
       </section>

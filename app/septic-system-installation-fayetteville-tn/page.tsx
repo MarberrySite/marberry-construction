@@ -177,7 +177,7 @@ export default function SepticInstallationFayettevillePage() {
                 In Tennessee, a septic permit is required before any system can be installed. The permit application goes through the Lincoln County Health Department and requires a site evaluation, a soil morphology report, and an approved system design before a permit is issued. The county uses this process to determine whether the lot can support a conventional system or whether an alternative system is required.
               </p>
               <p className="text-slate-600 text-base leading-relaxed">
-                The Lincoln County permit timeline typically runs 3 to 8 weeks from application to approval depending on the health department's current workload and whether any issues come up during the soil evaluation. We submit complete applications and coordinate the site evaluation on your behalf so you are not managing multiple agencies on your own.
+                The Lincoln County permit timeline typically runs 3 to 8 weeks from application to approval depending on the health department&apos;s current workload and whether any issues come up during the soil evaluation. We submit complete applications and coordinate the site evaluation on your behalf so you are not managing multiple agencies on your own.
               </p>
             </div>
           </div>
@@ -200,7 +200,7 @@ export default function SepticInstallationFayettevillePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "We handle the permit, the install, and the inspection. You do not have to navigate the county alone."
+            &quot;We handle the permit, the install, and the inspection. You do not have to navigate the county alone.&quot;
           </p>
         </div>
       </section>

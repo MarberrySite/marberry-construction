@@ -199,7 +199,7 @@ export default function CustomHomeBuilderAthensPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Athens and Limestone County are growing fast. Building now means getting ahead of the price curve that is already moving."
+            &quot;Athens and Limestone County are growing fast. Building now means getting ahead of the price curve that is already moving.&quot;
           </p>
         </div>
       </section>
@@ -229,7 +229,7 @@ export default function CustomHomeBuilderAthensPage() {
             We build throughout Limestone County and are familiar with the conditions in each community. Our clients in the Athens area include families building in Tanner, Elkmont, Lester, and Mooresville, as well as rural properties across the county. The communities to the south and east of Athens are seeing particularly strong demand as workers at Huntsville employers find that Limestone County gives them the commute distance they can manage while delivering the land and space they want.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Marberry Construction's Alabama license and established presence on both sides of the state line means Athens-area clients are not working with a contractor who is new to Alabama or learning the Limestone County permit system for the first time. We know the building department, we know the soil, and we know the inspectors. That familiarity accelerates the permitting process and prevents the delays and complications that come with contractors who are new to the market.
+            Marberry Construction&apos;s Alabama license and established presence on both sides of the state line means Athens-area clients are not working with a contractor who is new to Alabama or learning the Limestone County permit system for the first time. We know the building department, we know the soil, and we know the inspectors. That familiarity accelerates the permitting process and prevents the delays and complications that come with contractors who are new to the market.
           </p>
         </div>
       </section>

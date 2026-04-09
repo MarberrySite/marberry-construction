@@ -163,7 +163,7 @@ export default function SepticRepairHuntsvillePage() {
             </div>
           </div>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Huntsville's growth has pushed residential development into rural Madison County at a rapid pace. A lot of that development happened quickly, and some of the septic systems installed during peak growth periods were undersized for the homes they serve or installed on lots with marginal soil conditions. Both situations accelerate the timeline to failure. We see systems in communities around Huntsville that are failing at year 15 or 20 because the system was never correctly sized for the household load it has been handling.
+            Huntsville&apos;s growth has pushed residential development into rural Madison County at a rapid pace. A lot of that development happened quickly, and some of the septic systems installed during peak growth periods were undersized for the homes they serve or installed on lots with marginal soil conditions. Both situations accelerate the timeline to failure. We see systems in communities around Huntsville that are failing at year 15 or 20 because the system was never correctly sized for the household load it has been handling.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Red clay soils common throughout Madison County are hard on drain fields over time. Clay drains slowly, and a drain field that is working at the edge of its absorption capacity in good conditions can fail quickly during wet seasons or after years of cumulative saturation. When the drain field loses the ability to accept wastewater, the system backs up and sewage surfaces. Understanding soil conditions is as important to diagnosing a repair as understanding the mechanical state of the tank and distribution system.
@@ -202,7 +202,7 @@ export default function SepticRepairHuntsvillePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "We diagnose before we recommend. If a repair will solve it, we tell you that. If it needs replacement, we tell you that too."
+            &quot;We diagnose before we recommend. If a repair will solve it, we tell you that. If it needs replacement, we tell you that too.&quot;
           </p>
         </div>
       </section>

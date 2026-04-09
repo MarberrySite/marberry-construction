@@ -202,7 +202,7 @@ export default function RoofingContractorFayettevillePage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "A metal roof installed correctly will outlast the house it is on. That is what we install."
+            &quot;A metal roof installed correctly will outlast the house it is on. That is what we install.&quot;
           </p>
         </div>
       </section>

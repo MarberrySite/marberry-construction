@@ -198,7 +198,7 @@ export default function RoofingContractorWinchesterPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Metal roofing costs more upfront. Over 40 years it costs far less. That is the math Winchester homeowners are running."
+            &quot;Metal roofing costs more upfront. Over 40 years it costs far less. That is the math Winchester homeowners are running.&quot;
           </p>
         </div>
       </section>

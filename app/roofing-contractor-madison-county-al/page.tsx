@@ -180,7 +180,7 @@ export default function RoofingContractorMadisonCountyPage() {
             The economics of metal roofing are straightforward. A shingle roof installed today will need replacement in 15 to 20 years under Alabama conditions. The homeowner who installs metal instead replaces it zero times over the next 40 to 70 years. The higher upfront cost of metal is recovered entirely within the first replacement cycle avoided, with insurance premium reductions and lower maintenance costs stacking year over year on top of that.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-8">
-            We install standing seam and corrugated metal roofing depending on the application and the homeowner's preference. Standing seam has concealed fasteners and a clean profile that works well on lower-pitch roofs and newer construction. Corrugated is extremely durable and well-suited for the steeper pitches common on the older homes that characterize much of the rural residential stock in Madison County.
+            We install standing seam and corrugated metal roofing depending on the application and the homeowner&apos;s preference. Standing seam has concealed fasteners and a clean profile that works well on lower-pitch roofs and newer construction. Corrugated is extremely durable and well-suited for the steeper pitches common on the older homes that characterize much of the rural residential stock in Madison County.
           </p>
           <h3 className="font-semibold text-navy text-lg mb-4">Why metal outperforms shingles in Madison County:</h3>
           <ul className="space-y-3">
@@ -198,7 +198,7 @@ export default function RoofingContractorMadisonCountyPage() {
       <section className="py-16 bg-navy">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="font-playfair text-2xl md:text-3xl font-bold text-white leading-relaxed italic">
-            "Rural Madison County homes are built to last. The roof should be too."
+            &quot;Rural Madison County homes are built to last. The roof should be too.&quot;
           </p>
         </div>
       </section>
