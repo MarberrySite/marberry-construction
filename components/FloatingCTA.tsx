@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Link from "next/link";
 
 export default function FloatingCTA() {
   const [visible, setVisible] = useState(false);
@@ -26,18 +27,12 @@ export default function FloatingCTA() {
         visible ? "opacity-100" : "opacity-0 pointer-events-none"
       }`}
     >
-      <a
-        href="tel:2566798665"
-        className="bg-gold text-navy font-semibold px-5 py-3 rounded-full shadow-lg text-sm whitespace-nowrap"
-      >
+      <a href="tel:2566798665" className="bg-gold text-navy font-semibold px-5 py-3 rounded-full shadow-lg text-sm">
         Call Now: 256-679-8665
       </a>
-      <a
-        href="#contact"
-        className="bg-skyblue text-white font-semibold px-5 py-3 rounded-full shadow-lg text-sm whitespace-nowrap"
-      >
-        Get a Quote →
-      </a>
+      <Link href="/contact" className="bg-skyblue text-white font-semibold px-5 py-3 rounded-full shadow-lg text-sm">
+        Get a Free Quote →
+      </Link>
     </div>
   );
 }
