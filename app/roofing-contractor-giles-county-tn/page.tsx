@@ -14,7 +14,7 @@ const schema = {
   '@type': ['LocalBusiness', 'GeneralContractor'],
   name: 'Marberry Construction LLC',
   telephone: '256-679-8665',
-  email: 'marberryconstructionllc@gmail.com',
+  email: 'brandon@marberryconstructionllc.com',
   url: 'https://marberryconstructionllc.com',
   license: 'TN #77673',
   areaServed: [

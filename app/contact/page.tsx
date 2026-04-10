@@ -82,10 +82,10 @@ export default function ContactPage() {
                 <div>
                   <p className="text-slate-500 text-sm mb-1">Email</p>
                   <a
-                    href="mailto:marberryconstructionllc@gmail.com"
+                    href="mailto:brandon@marberryconstructionllc.com"
                     className="text-skyblue font-semibold text-base hover:underline break-all"
                   >
-                    marberryconstructionllc@gmail.com
+                    brandon@marberryconstructionllc.com
                   </a>
                 </div>
               </div>

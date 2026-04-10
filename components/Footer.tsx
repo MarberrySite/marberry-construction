@@ -44,10 +44,10 @@ export default function Footer() {
           </p>
           <p className="text-white/60 text-sm mt-1">
             <a
-              href="mailto:marberryconstructionllc@gmail.com"
+              href="mailto:brandon@marberryconstructionllc.com"
               className="hover:text-white transition"
             >
-              marberryconstructionllc@gmail.com
+              brandon@marberryconstructionllc.com
             </a>
           </p>
         </div>
