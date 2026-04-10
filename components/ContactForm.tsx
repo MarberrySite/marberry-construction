@@ -14,6 +14,8 @@ const serviceOptions = [
 
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const [form, setForm] = useState({
     name: "",
     phone: "",
@@ -31,9 +33,27 @@ export default function ContactForm() {
     setForm((prev) => ({ ...prev, [e.target.name]: e.target.value }));
   }
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
-    setSubmitted(true);
+    setLoading(true);
+    setError(null);
+    try {
+      const res = await fetch("https://formspree.io/f/mvzvjnvb", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify(form),
+      });
+      if (res.ok) {
+        setSubmitted(true);
+      } else {
+        const data = await res.json().catch(() => ({}));
+        setError(data?.error ?? "Something went wrong. Please try again or call us at 256-679-8665.");
+      }
+    } catch {
+      setError("Unable to send your request. Please check your connection and try again.");
+    } finally {
+      setLoading(false);
+    }
   }
 
   if (submitted) {
@@ -147,11 +167,16 @@ export default function ContactForm() {
         />
       </div>
 
+      {error && (
+        <p className="text-red-600 text-sm mb-4">{error}</p>
+      )}
+
       <button
         type="submit"
-        className="w-full bg-gold text-navy font-semibold py-4 rounded-lg text-sm uppercase tracking-wide hover:bg-yellow-500 transition mt-2"
+        disabled={loading}
+        className="w-full bg-gold text-navy font-semibold py-4 rounded-lg text-sm uppercase tracking-wide hover:bg-yellow-500 transition mt-2 disabled:opacity-60 disabled:cursor-not-allowed"
       >
-        SEND MY REQUEST
+        {loading ? "Sending…" : "SEND MY REQUEST"}
       </button>
     </form>
   );
