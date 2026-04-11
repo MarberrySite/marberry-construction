@@ -6,24 +6,28 @@ const serviceCards = [
     title: "Custom Home Construction",
     description:
       "From design to move-in day, we build homes tailored to your vision and your land.",
+    href: "/custom-home-builder",
   },
   {
     icon: PlusSquare,
     title: "Home Additions & Remodeling",
     description:
       "Expand what you have. We add space without disrupting your life.",
+    href: "/home-additions-remodeling",
   },
   {
     icon: Wrench,
     title: "Roofing",
     description:
       "Metal roofing installation and replacement built for Tennessee weather.",
+    href: "/roofing-contractor",
   },
   {
     icon: Droplets,
     title: "Septic Systems",
     description:
       "New installations, repairs, and replacements for residential and new construction.",
+    href: "/septic-system-installation",
   },
 ];
 
@@ -110,10 +114,11 @@ export default function Page() {
             What We Build
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {serviceCards.map(({ icon: Icon, title, description }) => (
-              <div
+            {serviceCards.map(({ icon: Icon, title, description, href }) => (
+              <a
                 key={title}
-                className="bg-white border border-slate-100 rounded-xl p-8 shadow-sm hover:shadow-lg transition-shadow duration-300"
+                href={href}
+                className="bg-white border border-slate-100 rounded-xl p-8 shadow-sm hover:shadow-lg transition-shadow duration-300 block"
               >
                 <div className="w-14 h-14 rounded-xl bg-skyblue/10 flex items-center justify-center mb-6">
                   <Icon size={28} className="text-skyblue" />
@@ -122,13 +127,10 @@ export default function Page() {
                 <p className="text-slate-500 text-sm leading-relaxed mb-6">
                   {description}
                 </p>
-                <a
-                  href="#contact"
-                  className="text-skyblue text-sm font-medium hover:underline"
-                >
+                <span className="text-skyblue text-sm font-medium hover:underline">
                   Learn More →
-                </a>
-              </div>
+                </span>
+              </a>
             ))}
           </div>
         </div>
