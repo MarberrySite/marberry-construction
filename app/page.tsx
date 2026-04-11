@@ -52,7 +52,7 @@ export default function Page() {
       <section className="relative min-h-[80vh] flex items-center bg-navy">
         {/* Image — covers only the right 55% of the section */}
         <div
-          className="hidden md:block absolute top-0 right-0 bottom-0 w-[50%]"
+          className="hidden md:block absolute top-0 right-0 bottom-0 w-[50%] pointer-events-none"
           style={{
             backgroundImage: 'url(/images/hero.jpeg)',
             backgroundSize: 'cover',
@@ -61,7 +61,7 @@ export default function Page() {
         />
         {/* Hard line at 45% */}
         <div
-          className="absolute inset-0"
+          className="absolute inset-0 pointer-events-none"
           style={{ background: 'linear-gradient(to right, #1B2A4A 50%, transparent 50%)' }}
         />
 
@@ -79,7 +79,7 @@ export default function Page() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-start mb-10">
             <a
-              href="#contact"
+              href="https://marberryconstructionllc.com/contact"
               className="bg-gold text-navy font-semibold px-8 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
             >
               Get a Quote
@@ -206,7 +206,7 @@ export default function Page() {
       </section>
 
       {/* SECTION 5 — CTA BANNER */}
-      <section id="contact" className="py-24 bg-navy text-center px-6">
+      <section className="py-24 bg-navy text-center px-6">
         <h2 className="font-playfair text-4xl md:text-5xl font-bold text-white mb-4">
           Ready to Build?
         </h2>
@@ -215,7 +215,7 @@ export default function Page() {
           within 24 hours.
         </p>
         <a
-          href="tel:2566798665"
+          href="https://marberryconstructionllc.com/contact"
           className="inline-block bg-gold text-navy font-semibold px-10 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
         >
           Get a Quote

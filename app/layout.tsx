@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   title: "Marberry Construction LLC | Custom Home Builder Fayetteville TN",
   description:
     "Custom home construction, roofing, and septic systems in Fayetteville TN, Huntsville AL and surrounding areas. Licensed, insured. Call 256-679-8665.",
+  icons: {
+    icon: '/favicon.jpg',
+  },
 };
 
 export default function RootLayout({

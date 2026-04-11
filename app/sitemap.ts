@@ -58,12 +58,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/home-additions-madison-county-al',
   ];
 
+  const blogPages = [
+    '/blog',
+    '/blog/how-much-to-build-a-custom-home-in-tennessee',
+    '/blog/build-a-house-in-tennessee-under-500k',
+    '/blog/how-long-does-a-metal-roof-last-in-tennessee',
+    '/blog/metal-roof-vs-shingles-tennessee',
+    '/blog/roof-replacement-cost-tennessee',
+    '/blog/standing-seam-metal-roof-tennessee',
+    '/blog/new-roof-installation-lincoln-county-tn',
+    '/blog/metal-roof-replacement-giles-county-tn',
+    '/blog/how-much-does-septic-installation-cost-in-tennessee',
+    '/blog/new-septic-tank-cost-tennessee',
+    '/blog/alternative-septic-systems-tennessee',
+    '/blog/do-i-need-a-permit-for-septic-in-tennessee',
+    '/blog/septic-system-for-new-construction-tennessee',
+    '/blog/how-much-does-a-home-addition-cost-in-tennessee',
+    '/blog/room-addition-cost-tennessee',
+    '/blog/permit-for-home-addition-tennessee',
+    '/blog/master-suite-addition-tennessee',
+  ];
+
   const allPages = [...staticPages, ...locationPages];
 
-  return allPages.map((path) => ({
+  const staticEntries = allPages.map((path) => ({
     url: `${baseUrl}${path}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: path === '' ? 1 : path.includes('fayetteville') ? 0.9 : 0.8,
   }));
+
+  const blogEntries = blogPages.map((path) => ({
+    url: `${baseUrl}${path}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: path === '/blog' ? 0.8 : 0.7,
+  }));
+
+  return [...staticEntries, ...blogEntries];
 }

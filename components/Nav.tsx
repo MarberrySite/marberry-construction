@@ -72,7 +72,7 @@ export default function Nav() {
               Services <ChevronDown size={14} />
             </button>
             {servicesOpen && (
-              <div className="bg-navy border border-white/10 rounded-lg shadow-xl w-56 absolute top-full left-0 mt-1 z-50 py-2">
+              <div className="bg-navy border border-white/10 rounded-lg shadow-xl w-56 absolute top-full left-0 z-50 py-2">
                 {services.map((s) => (
                   <Link
                     key={s.href}
@@ -96,7 +96,7 @@ export default function Nav() {
               Locations <ChevronDown size={14} />
             </button>
             {locationsOpen && (
-              <div className="bg-navy border border-white/10 rounded-lg shadow-xl w-64 absolute top-full left-0 mt-1 z-50 py-2">
+              <div className="bg-navy border border-white/10 rounded-lg shadow-xl w-64 absolute top-full left-0 z-50 py-2">
                 <p className="text-white/40 text-xs uppercase tracking-wider px-3 py-1">
                   Tennessee
                 </p>
