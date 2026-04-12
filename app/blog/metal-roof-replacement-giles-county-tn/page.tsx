@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Metal Roof Replacement in Giles County TN | Marberry Construction',
   description:
     'Marberry Construction installs and replaces metal roofs throughout Giles County TN, including Pulaski. Licensed and based in nearby Fayetteville.',
+  alternates: { canonical: '/blog/metal-roof-replacement-giles-county-tn' },
 };
 
 const schema = {
@@ -137,9 +139,9 @@ export default function Page() {
           <p>
             Call 256-679-8665 or use the link below to request an estimate. You can also visit
             our{' '}
-            <a href="/roofing-contractor" className="text-[#3B8BD4] underline">
+            <Link href="/roofing-contractor" className="text-[#3B8BD4] underline">
               roofing services page
-            </a>{' '}
+            </Link>{' '}
             for more detail on what we install and the areas we cover.
           </p>
         </div>
@@ -158,12 +160,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

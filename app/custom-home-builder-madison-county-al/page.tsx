@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Custom Home Builder Madison County AL | Marberry Construction',
   description:
     'Custom home builder in unincorporated Madison County AL. Build on your lot in Harvest, Meridianville, New Market, and surrounding areas. Licensed contractor. Call 256-679-8665.',
+  alternates: { canonical: '/custom-home-builder-madison-county-al' },
 };
 
 const schema = {
@@ -95,12 +96,12 @@ export default function CustomHomeBuilderMadisonCountyPage() {
               Building custom homes on your lot throughout unincorporated Madison County including Harvest, Meridianville, New Market, and Toney.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-start mb-10">
-              <a
+              <Link
                 href="/contact"
                 className="bg-gold text-navy font-semibold px-8 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
               >
                 Get a Quote
-              </a>
+              </Link>
             </div>
             <div className="flex flex-wrap justify-start gap-8 text-white/50 text-sm">
               <span>TN Licensed #77673</span>
@@ -288,12 +289,12 @@ export default function CustomHomeBuilderMadisonCountyPage() {
         <p className="text-white/60 text-lg mb-10">
           Call 256-679-8665 or request a free quote. We respond within 24 hours.
         </p>
-        <a
+        <Link
           href="/contact"
           className="inline-block bg-gold text-navy font-semibold px-10 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
         >
           GET A FREE QUOTE
-        </a>
+        </Link>
       </section>
     </>
   );

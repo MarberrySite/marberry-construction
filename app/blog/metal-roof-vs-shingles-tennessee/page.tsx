@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Metal Roof vs Shingles in Tennessee: Which Is Better? | Marberry Construction',
   description:
     'Metal roofing lasts 3-4x longer than asphalt shingles in Tennessee. Compare costs, energy savings, and long-term value for Tennessee homeowners.',
+  alternates: { canonical: '/blog/metal-roof-vs-shingles-tennessee' },
 };
 
 const schema = {
@@ -155,9 +157,9 @@ export default function Page() {
           </p>
           <p>
             Visit our{' '}
-            <a href="/roofing-contractor" className="text-[#3B8BD4] underline">
+            <Link href="/roofing-contractor" className="text-[#3B8BD4] underline">
               roofing services page
-            </a>{' '}
+            </Link>{' '}
             or call 256-679-8665 for a free estimate.
           </p>
         </div>
@@ -176,12 +178,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

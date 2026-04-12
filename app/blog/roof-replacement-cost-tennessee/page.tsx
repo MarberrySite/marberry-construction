@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Roof Replacement Cost in Tennessee | Marberry Construction',
   description:
     'Metal roof replacement in Tennessee costs $8-$22 per square foot installed. Get real numbers for corrugated and standing seam roofs in Lincoln County.',
+  alternates: { canonical: '/blog/roof-replacement-cost-tennessee' },
 };
 
 const schema = {
@@ -140,9 +142,9 @@ export default function Page() {
             in Fayetteville. We provide free estimates throughout Lincoln County, Giles County,
             Franklin County, Winchester, Ardmore, Taft, and North Alabama. Call 256-679-8665 or
             request an estimate below. You can also visit our{' '}
-            <a href="/roofing-contractor" className="text-[#3B8BD4] underline">
+            <Link href="/roofing-contractor" className="text-[#3B8BD4] underline">
               roofing services page
-            </a>{' '}
+            </Link>{' '}
             for more information.
           </p>
         </div>
@@ -161,12 +163,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

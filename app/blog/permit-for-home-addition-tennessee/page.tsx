@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Do You Need a Permit for a Home Addition in Tennessee? | Marberry Construction',
   description:
     'Yes. Any structural home addition in Tennessee requires a building permit. Learn what the process looks like and what triggers the requirement.',
+  alternates: { canonical: '/blog/permit-for-home-addition-tennessee' },
 };
 
 const schema = {
@@ -171,9 +173,9 @@ export default function Page() {
           <p>
             We build additions throughout Fayetteville, Lincoln County, Giles County, Franklin
             County, and North Alabama. Call 256-679-8665 or visit our{' '}
-            <a href="/home-additions-remodeling" className="text-[#3B8BD4] underline">
+            <Link href="/home-additions-remodeling" className="text-[#3B8BD4] underline">
               home additions page
-            </a>{' '}
+            </Link>{' '}
             to get started with a free estimate.
           </p>
         </div>
@@ -192,12 +194,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: 'Construction Blog | Marberry Construction',
   description:
     'Guides on building costs, roofing, septic systems, and home additions in Tennessee and North Alabama from Marberry Construction LLC.',
+  alternates: { canonical: '/blog' },
 };
 
 const articles = [
@@ -211,12 +212,12 @@ export default function BlogIndex() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

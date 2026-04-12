@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'New Septic Tank Cost in Tennessee | Marberry Construction',
   description:
     'A new septic tank in Tennessee costs $800-$2,500 for the tank alone. Full system installation runs $4,000-$20,000. Get real numbers for Lincoln County.',
+  alternates: { canonical: '/blog/new-septic-tank-cost-tennessee' },
 };
 
 const schema = {
@@ -148,9 +150,9 @@ export default function Page() {
           </p>
           <p>
             Call 256-679-8665 for a free estimate or visit our{' '}
-            <a href="/septic-system-installation" className="text-[#3B8BD4] underline">
+            <Link href="/septic-system-installation" className="text-[#3B8BD4] underline">
               septic installation page
-            </a>{' '}
+            </Link>{' '}
             for more detail on the types of systems we install.
           </p>
         </div>
@@ -169,12 +171,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

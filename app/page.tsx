@@ -1,4 +1,10 @@
+import type { Metadata } from "next";
+import Link from "next/link";
 import { Home, PlusSquare, Wrench, Droplets } from "lucide-react";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 const serviceCards = [
   {
@@ -75,25 +81,28 @@ export default function Page() {
           <p className="text-gold text-xs font-semibold tracking-[0.2em] uppercase mb-4">
             Serving Southern Tennessee &amp; Northern Alabama
           </p>
-          <h1 className="font-playfair text-3xl md:text-[60px] font-bold text-white leading-tight mb-6">
-            Built to Last.<br />Built for You.
+          <h1 className="font-playfair text-3xl md:text-[60px] font-bold text-white leading-tight mb-4">
+            Custom Home Builder<br />in Southern TN &amp; Northern AL
           </h1>
+          <h2 className="font-playfair text-2xl md:text-3xl font-semibold text-gold mb-6">
+            Built to Last. Built for You.
+          </h2>
           <p className="text-white/70 text-lg md:text-xl mb-10">
-            Custom homes, roofing, and septic systems.<br />From foundation to finish.
+            Custom homes, metal roofing, and septic systems.<br />From foundation to finish.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-start mb-10">
-            <a
-              href="https://marberryconstructionllc.com/contact"
+            <Link
+              href="/contact"
               className="bg-gold text-navy font-semibold px-8 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
             >
               Get a Quote
-            </a>
-            <a
-              href="#gallery"
+            </Link>
+            <Link
+              href="/gallery"
               className="border-2 border-white text-white font-semibold px-8 py-4 text-sm uppercase tracking-wide hover:bg-white hover:text-navy transition rounded-sm"
             >
               View Our Work
-            </a>
+            </Link>
           </div>
           <div className="flex flex-wrap justify-start gap-8 text-white/50 text-sm">
             <span>TN Licensed #77673</span>
@@ -115,7 +124,7 @@ export default function Page() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {serviceCards.map(({ icon: Icon, title, description, href }) => (
-              <a
+              <Link
                 key={title}
                 href={href}
                 className="bg-white border border-slate-100 rounded-xl p-8 shadow-sm hover:shadow-lg transition-shadow duration-300 block"
@@ -130,7 +139,7 @@ export default function Page() {
                 <span className="text-skyblue text-sm font-medium hover:underline">
                   Learn More →
                 </span>
-              </a>
+              </Link>
             ))}
           </div>
         </div>
@@ -216,12 +225,12 @@ export default function Page() {
           Call us at 256-679-8665 or request a quote online. We respond
           within 24 hours.
         </p>
-        <a
-          href="https://marberryconstructionllc.com/contact"
+        <Link
+          href="/contact"
           className="inline-block bg-gold text-navy font-semibold px-10 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
         >
           Get a Quote
-        </a>
+        </Link>
       </section>
     </>
   );

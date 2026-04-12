@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'How Much Does Septic Installation Cost in Tennessee? | Marberry Construction',
   description:
     'Septic system installation in Tennessee costs $4,000-$20,000 depending on soil and system type. Get real numbers for Lincoln County and surrounding areas.',
+  alternates: { canonical: '/blog/how-much-does-septic-installation-cost-in-tennessee' },
 };
 
 const schema = {
@@ -153,9 +155,9 @@ export default function Page() {
             We also install septic systems as part of new custom home construction projects,
             which means homeowners building on rural land work with a single contractor from
             site preparation through finished construction. Learn more about our{' '}
-            <a href="/septic-system-installation" className="text-[#3B8BD4] underline">
+            <Link href="/septic-system-installation" className="text-[#3B8BD4] underline">
               septic installation services
-            </a>{' '}
+            </Link>{' '}
             or call 256-679-8665. We are a licensed Tennessee contractor (TN License #77673) and
             provide free estimates.
           </p>
@@ -175,12 +177,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

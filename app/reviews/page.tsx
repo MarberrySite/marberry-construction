@@ -1,10 +1,12 @@
 import type { Metadata } from 'next';
 import { Star } from 'lucide-react';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Reviews | Marberry Construction LLC Fayetteville TN',
   description:
     'Read reviews from Marberry Construction clients in Fayetteville TN and surrounding areas. Licensed contractor. Call 256-679-8665.',
+  alternates: { canonical: '/reviews' },
 };
 
 const reviews = [
@@ -179,12 +181,12 @@ export default function ReviewsPage() {
         <p className="text-white/60 text-lg mb-10">
           Call 256-679-8665 or request a free quote. We respond within 24 hours.
         </p>
-        <a
+        <Link
           href="/contact"
           className="inline-block bg-gold text-navy font-semibold px-10 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
         >
           GET A FREE QUOTE
-        </a>
+        </Link>
       </section>
     </>
   );

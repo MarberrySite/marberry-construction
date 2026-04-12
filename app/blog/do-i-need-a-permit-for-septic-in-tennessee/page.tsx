@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Do I Need a Permit for a Septic System in Tennessee? | Marberry Construction',
   description:
     'Yes. Every septic installation in Tennessee requires a permit through TDEC and your county health department. Here is what the process looks like.',
+  alternates: { canonical: '/blog/do-i-need-a-permit-for-septic-in-tennessee' },
 };
 
 const schema = {
@@ -157,9 +159,9 @@ export default function Page() {
           <p>
             We serve Lincoln County, Giles County, Franklin County, and surrounding Tennessee
             counties, as well as North Alabama. Call 256-679-8665 or visit our{' '}
-            <a href="/septic-system-installation" className="text-[#3B8BD4] underline">
+            <Link href="/septic-system-installation" className="text-[#3B8BD4] underline">
               septic installation page
-            </a>{' '}
+            </Link>{' '}
             to get started.
           </p>
         </div>
@@ -178,12 +180,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

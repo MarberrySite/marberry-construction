@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Septic System Installation Giles County TN | Marberry Construction',
   description:
     'Septic system installation in Giles County TN and Pulaski. Licensed contractor. Call 256-679-8665.',
+  alternates: { canonical: '/septic-system-installation-giles-county-tn' },
 };
 
 const schema = {
@@ -95,12 +96,12 @@ export default function SepticInstallationGilesCountyPage() {
               New septic systems for homes and new construction throughout Giles County and the Pulaski Tennessee area.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-start mb-10">
-              <a
+              <Link
                 href="/contact"
                 className="bg-gold text-navy font-semibold px-8 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
               >
                 Get a Quote
-              </a>
+              </Link>
             </div>
             <div className="flex flex-wrap justify-start gap-8 text-white/50 text-sm">
               <span>TN Licensed #77673</span>
@@ -273,12 +274,12 @@ export default function SepticInstallationGilesCountyPage() {
         <p className="text-white/60 text-lg mb-10">
           Call 256-679-8665 or request a free quote. We respond within 24 hours.
         </p>
-        <a
+        <Link
           href="/contact"
           className="inline-block bg-gold text-navy font-semibold px-10 py-4 text-sm uppercase tracking-wide hover:bg-yellow-500 transition rounded-sm"
         >
           GET A FREE QUOTE
-        </a>
+        </Link>
       </section>
     </>
   );

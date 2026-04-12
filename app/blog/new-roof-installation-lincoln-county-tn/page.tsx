@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'New Roof Installation in Lincoln County TN | Marberry Construction',
   description:
     'Marberry Construction installs metal roofs throughout Lincoln County TN. Licensed, local, and based in Fayetteville. Free estimates.',
+  alternates: { canonical: '/blog/new-roof-installation-lincoln-county-tn' },
 };
 
 const schema = {
@@ -137,9 +139,9 @@ export default function Page() {
             We serve all of Lincoln County from our base in Fayetteville. If you are in Ardmore,
             Taft, Elora, Flintville, or anywhere else in the county, we can get to you. Call
             256-679-8665 or visit our{' '}
-            <a href="/roofing-contractor" className="text-[#3B8BD4] underline">
+            <Link href="/roofing-contractor" className="text-[#3B8BD4] underline">
               roofing contractor page
-            </a>{' '}
+            </Link>{' '}
             to learn more about what we do.
           </p>
         </div>
@@ -158,12 +160,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

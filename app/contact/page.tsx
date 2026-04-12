@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: 'Get a Free Quote | Marberry Construction LLC',
   description:
     'Request a free quote from Marberry Construction. Custom homes, roofing, and septic systems in Fayetteville TN and surrounding areas. Call 256-679-8665.',
+  alternates: { canonical: '/contact' },
 };
 
 const services = [

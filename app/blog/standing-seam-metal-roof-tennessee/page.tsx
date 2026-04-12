@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Standing Seam Metal Roofs in Tennessee | Marberry Construction',
   description:
     'Standing seam metal roofs are the premium choice for Tennessee homes. Learn what they cost, how they differ from corrugated, and why they outperform.',
+  alternates: { canonical: '/blog/standing-seam-metal-roof-tennessee' },
 };
 
 const schema = {
@@ -143,9 +145,9 @@ export default function Page() {
           <p>
             Marberry Construction installs both standing seam and corrugated metal roofing
             throughout the region. Visit our{' '}
-            <a href="/roofing-contractor" className="text-[#3B8BD4] underline">
+            <Link href="/roofing-contractor" className="text-[#3B8BD4] underline">
               roofing services page
-            </a>{' '}
+            </Link>{' '}
             or call 256-679-8665 to schedule a free estimate.
           </p>
         </div>
@@ -164,12 +166,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Can You Build a House in Tennessee Under $500K? | Marberry Construction',
   description:
     'Yes, you can build a house in Tennessee under $500K. Here is what you get at that budget in Lincoln County vs Nashville, and how to make it work.',
+  alternates: { canonical: '/blog/build-a-house-in-tennessee-under-500k' },
 };
 
 const schema = {
@@ -141,9 +143,9 @@ export default function Page() {
             based in Fayetteville. We build throughout Lincoln County, Giles County, Franklin
             County, and surrounding areas, as well as North Alabama. Call 256-679-8665 or
             request a free estimate below. You can also visit our{' '}
-            <a href="/custom-home-builder" className="text-[#3B8BD4] underline">
+            <Link href="/custom-home-builder" className="text-[#3B8BD4] underline">
               custom home builder page
-            </a>{' '}
+            </Link>{' '}
             for more detail on our process and service areas.
           </p>
         </div>
@@ -162,12 +164,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

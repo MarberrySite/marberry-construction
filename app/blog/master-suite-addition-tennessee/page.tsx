@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Master Suite Addition in Tennessee: Costs and What to Expect | Marberry Construction',
   description:
     'A master suite addition in Tennessee typically costs $60,000-$120,000 and includes a bedroom, private bath, and walk-in closet. See what goes into it.',
+  alternates: { canonical: '/blog/master-suite-addition-tennessee' },
 };
 
 const schema = {
@@ -168,9 +170,9 @@ export default function Page() {
             coordination. We build master suite additions throughout Fayetteville, Lincoln
             County, Giles County, Franklin County, and North Alabama. Call 256-679-8665 or
             visit our{' '}
-            <a href="/home-additions-remodeling" className="text-[#3B8BD4] underline">
+            <Link href="/home-additions-remodeling" className="text-[#3B8BD4] underline">
               home additions page
-            </a>{' '}
+            </Link>{' '}
             to discuss your project and get a free estimate.
           </p>
         </div>
@@ -189,12 +191,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

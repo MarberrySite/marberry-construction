@@ -81,16 +81,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const allPages = [...staticPages, ...locationPages];
 
+  const lastModified = new Date('2026-04-12');
+
   const staticEntries = allPages.map((path) => ({
     url: `${baseUrl}${path}`,
-    lastModified: new Date(),
+    lastModified,
     changeFrequency: 'monthly' as const,
     priority: path === '' ? 1 : path.includes('fayetteville') ? 0.9 : 0.8,
   }));
 
   const blogEntries = blogPages.map((path) => ({
     url: `${baseUrl}${path}`,
-    lastModified: new Date(),
+    lastModified,
     changeFrequency: 'monthly' as const,
     priority: path === '/blog' ? 0.8 : 0.7,
   }));

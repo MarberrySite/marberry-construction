@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'How Long Does a Metal Roof Last in Tennessee? | Marberry Construction',
   description:
     'Metal roofs last 40-70 years in Tennessee. Learn what affects lifespan in Tennessee\'s climate and why metal outperforms shingles in the South.',
+  alternates: { canonical: '/blog/how-long-does-a-metal-roof-last-in-tennessee' },
 };
 
 const schema = {
@@ -136,9 +138,9 @@ export default function Page() {
           </p>
           <p>
             Learn more about our{' '}
-            <a href="/roofing-contractor" className="text-[#3B8BD4] underline">
+            <Link href="/roofing-contractor" className="text-[#3B8BD4] underline">
               metal roofing services
-            </a>{' '}
+            </Link>{' '}
             or call 256-679-8665 to schedule a free estimate.
           </p>
         </div>
@@ -157,12 +159,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

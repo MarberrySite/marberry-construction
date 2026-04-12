@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Alternative Septic Systems in Tennessee: When You Need One | Marberry Construction',
   description:
     'If your lot fails a perc test, you need an alternative septic system. Learn what that means and what it costs in Tennessee.',
+  alternates: { canonical: '/blog/alternative-septic-systems-tennessee' },
 };
 
 const schema = {
@@ -152,9 +154,9 @@ export default function Page() {
             alternative septic systems throughout Tennessee and North Alabama. We coordinate the
             soil evaluation, permit application, and full system installation in-house. Call
             256-679-8665 or visit our{' '}
-            <a href="/septic-system-installation" className="text-[#3B8BD4] underline">
+            <Link href="/septic-system-installation" className="text-[#3B8BD4] underline">
               septic installation page
-            </a>{' '}
+            </Link>{' '}
             to learn more.
           </p>
         </div>
@@ -173,12 +175,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

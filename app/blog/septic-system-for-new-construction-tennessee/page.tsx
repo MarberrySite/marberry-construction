@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Septic Systems for New Home Construction in Tennessee | Marberry Construction',
   description:
     'Every new home in rural Tennessee needs a septic system. Learn how it integrates with the construction timeline and why using one contractor for both simplifies everything.',
+  alternates: { canonical: '/blog/septic-system-for-new-construction-tennessee' },
 };
 
 const schema = {
@@ -149,13 +151,13 @@ export default function Page() {
             If you are planning a rural home build in Tennessee or North Alabama, call 256-679-8665
             for a free estimate that covers both the home and the septic system. You can also
             visit our{' '}
-            <a href="/custom-home-builder" className="text-[#3B8BD4] underline">
+            <Link href="/custom-home-builder" className="text-[#3B8BD4] underline">
               custom home builder page
-            </a>{' '}
+            </Link>{' '}
             and our{' '}
-            <a href="/septic-system-installation" className="text-[#3B8BD4] underline">
+            <Link href="/septic-system-installation" className="text-[#3B8BD4] underline">
               septic installation page
-            </a>{' '}
+            </Link>{' '}
             for more detail on what each service includes.
           </p>
         </div>
@@ -174,12 +176,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

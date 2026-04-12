@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'How Much Does a Home Addition Cost in Tennessee? | Marberry Construction',
   description:
     'Home additions in Tennessee cost $120-$220 per square foot. See typical project totals and what drives the price in Lincoln County and surrounding areas.',
+  alternates: { canonical: '/blog/how-much-does-a-home-addition-cost-in-tennessee' },
 };
 
 const schema = {
@@ -139,9 +141,9 @@ export default function Page() {
             Lincoln County, Giles County, Franklin County, and North Alabama. We provide free
             estimates and can give you a clear number after reviewing your home and your plans.
             Call 256-679-8665 or visit our{' '}
-            <a href="/home-additions-remodeling" className="text-[#3B8BD4] underline">
+            <Link href="/home-additions-remodeling" className="text-[#3B8BD4] underline">
               home additions page
-            </a>{' '}
+            </Link>{' '}
             to learn more.
           </p>
         </div>
@@ -160,12 +162,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

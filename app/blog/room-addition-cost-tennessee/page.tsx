@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Room Addition Cost in Tennessee | Marberry Construction',
   description:
     'Adding a room in Tennessee costs $30,000-$120,000 depending on size and type. Get real numbers for bedroom additions, living space, and more.',
+  alternates: { canonical: '/blog/room-addition-cost-tennessee' },
 };
 
 const schema = {
@@ -147,9 +149,9 @@ export default function Page() {
             Giles County, Franklin County, Winchester, Ardmore, Taft, and North Alabama. We are
             a licensed Tennessee contractor (TN License #77673) and provide free estimates.
             Call 256-679-8665 or visit our{' '}
-            <a href="/home-additions-remodeling" className="text-[#3B8BD4] underline">
+            <Link href="/home-additions-remodeling" className="text-[#3B8BD4] underline">
               home additions page
-            </a>{' '}
+            </Link>{' '}
             for more detail.
           </p>
         </div>
@@ -168,12 +170,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>

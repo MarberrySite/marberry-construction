@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'How Much Does It Cost to Build a Custom Home in Tennessee? | Marberry Construction',
   description:
     'Custom home costs in Tennessee run $175-$275 per square foot. See what affects your price in Lincoln County, Fayetteville, and surrounding areas.',
+  alternates: { canonical: '/blog/how-much-to-build-a-custom-home-in-tennessee' },
 };
 
 const schema = {
@@ -144,9 +146,9 @@ export default function Page() {
           </p>
           <p>
             You can also learn more about our{' '}
-            <a href="/custom-home-builder" className="text-[#3B8BD4] underline">
+            <Link href="/custom-home-builder" className="text-[#3B8BD4] underline">
               custom home construction services
-            </a>{' '}
+            </Link>{' '}
             and the areas we serve.
           </p>
         </div>
@@ -165,12 +167,12 @@ export default function Page() {
           >
             Call 256-679-8665
           </a>
-          <a
+          <Link
             href="/contact"
             className="border border-[#C9A84C] text-[#C9A84C] font-semibold px-8 py-3 rounded hover:bg-[#C9A84C] hover:text-[#1B2A4A] transition"
           >
             Free Estimate
-          </a>
+          </Link>
         </div>
       </section>
     </>
