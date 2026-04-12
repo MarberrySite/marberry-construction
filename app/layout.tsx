@@ -114,6 +114,7 @@ const localBusinessSchema = {
   sameAs: [
     "https://maps.google.com/maps?cid=7412957895984849123",
     "https://www.facebook.com/MarberryConstruction",
+    "https://www.facebook.com/profile.php?id=100083159560919",
   ],
 };
 
