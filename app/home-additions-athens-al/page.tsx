@@ -53,7 +53,7 @@ const faqItems = [
   {
     question: 'How much does an addition cost in Athens AL?',
     answer:
-      'Most additions run $120 to $220 per square foot. Total projects typically range $40,000 to $120,000.',
+      'Most additions run $150 to $250 per square foot. Total projects typically range $40,000 to $120,000.',
   },
   {
     question: 'How long does an addition take in Limestone County?',
@@ -212,7 +212,7 @@ export default function HomeAdditionsAthensPage() {
             Home Addition Costs in Athens AL
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Home additions in the Athens and Limestone County area typically run $120 to $220 per square foot depending on the complexity of the work, the finishes selected, and how much structural work is required to tie the addition into the existing home. Labor and material costs in Limestone County are similar to Southern Tennessee, which means Athens-area clients get the same pricing structure as our Tennessee service area clients.
+            Home additions in the Athens and Limestone County area typically run $150 to $250 per square foot depending on the complexity of the work, the finishes selected, and how much structural work is required to tie the addition into the existing home. Labor and material costs in Limestone County are similar to Southern Tennessee, which means Athens-area clients get the same pricing structure as our Tennessee service area clients.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most addition clients in Limestone County spend between $40,000 and $120,000 for a meaningful addition that adds usable square footage and real value to their home. Smaller projects like covered porches, mudrooms, and utility additions can come in under $30,000. On-site estimates throughout Athens and Limestone County are free, and we provide detailed written estimates before any work begins so you know exactly what the project will cost before you commit.

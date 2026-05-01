@@ -214,7 +214,7 @@ export default function HomeAdditionsRemodelingPage() {
             Home Addition Costs in Tennessee and What Affects the Price
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Home additions in this region typically run $120 to $220 per square foot depending on the complexity of the work, the finishes selected, and how much structural work is required to tie the addition into the existing home. A simple bedroom addition with standard finishes costs significantly less per square foot than a kitchen expansion that requires moving load bearing walls, upgrading the electrical panel, and installing custom cabinetry.
+            Home additions in this region typically run $150 to $250 per square foot depending on the complexity of the work, the finishes selected, and how much structural work is required to tie the addition into the existing home. A simple bedroom addition with standard finishes costs significantly less per square foot than a kitchen expansion that requires moving load bearing walls, upgrading the electrical panel, and installing custom cabinetry.
           </p>
           <p className="text-slate-600 text-base leading-relaxed">
             Most of our addition clients in Lincoln County and surrounding areas spend between $40,000 and $120,000 for a meaningful addition that adds real value to the home. Smaller projects like covered porches, mudrooms, or utility additions can come in under $30,000. We give detailed written estimates before any work begins so you know what you are committing to before you sign anything.

@@ -104,7 +104,7 @@ const articles = [
     href: '/blog/how-much-does-a-home-addition-cost-in-tennessee',
     title: 'How Much Does a Home Addition Cost in Tennessee?',
     description:
-      'Home additions run $120 to $220 per square foot. Typical project totals and what drives cost in Lincoln County and surrounding areas.',
+      'Home additions run $150 to $250 per square foot. Typical project totals and what drives cost in Lincoln County and surrounding areas.',
     category: 'Home Additions',
   },
   {

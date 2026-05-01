@@ -53,7 +53,7 @@ const faqItems = [
   {
     question: 'How much does an addition cost in rural Madison County?',
     answer:
-      'Most additions run $120 to $220 per square foot. Total projects typically range $40,000 to $130,000 depending on size and complexity.',
+      'Most additions run $150 to $250 per square foot. Total projects typically range $40,000 to $130,000 depending on size and complexity.',
   },
   {
     question: 'How long does an addition take in unincorporated Madison County?',
@@ -212,7 +212,7 @@ export default function HomeAdditionsMadisonCountyPage() {
             Home Addition Costs in Madison County AL
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Home additions in unincorporated Madison County typically run $120 to $220 per square foot depending on the complexity of the work, finishes selected, and the structural requirements of tying the addition into the existing home. Most addition clients in rural Madison County spend between $40,000 and $130,000 for a meaningful addition that adds real square footage and long-term value.
+            Home additions in unincorporated Madison County typically run $150 to $250 per square foot depending on the complexity of the work, finishes selected, and the structural requirements of tying the addition into the existing home. Most addition clients in rural Madison County spend between $40,000 and $130,000 for a meaningful addition that adds real square footage and long-term value.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Smaller projects like covered porches, mudrooms, and utility additions can come in under $30,000. Site visits throughout rural Madison County are free and we provide detailed written estimates before any work begins. You know exactly what the project will cost before committing.

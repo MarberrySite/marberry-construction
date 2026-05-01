@@ -103,7 +103,7 @@ export default function RoofingContractorPage() {
             ROOFING SERVICES
           </p>
           <h1 className="font-playfair text-3xl md:text-[60px] font-bold text-white leading-tight mb-6">
-            Metal Roofing<br />That Lasts Decades.
+            Roofing That Lasts Decades
           </h1>
           <p className="text-white/70 text-lg md:text-xl mb-10">
             Installation, replacement, and repair for residential and new construction across
@@ -133,13 +133,13 @@ export default function RoofingContractorPage() {
             Roofing Contractor in Fayetteville TN and Northern Alabama
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Marberry Construction installs and replaces metal roofing on residential homes throughout Lincoln County, Giles County, Franklin County, and into Huntsville, Madison County, and Athens in Alabama. We specialize in metal roofing because it is simply the best choice for this climate. Standing seam and corrugated metal roofs outperform asphalt shingles in every category that matters in Southern Tennessee.
+            Marberry Construction installs and replaces roofing on residential homes throughout Lincoln County, Giles County, Franklin County, and into Huntsville, Madison County, and Athens in Alabama. We specialize in metal roofing because it is simply the best choice for this climate. Standing seam and corrugated metal roofs outperform asphalt shingles in every category that matters in Southern Tennessee.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Tennessee weather is hard on roofs. Summers bring intense heat, UV exposure, and occasional hail. Winters bring ice dams, freeze-thaw cycles, and wind. A quality metal roof handles all of it without the cracking, lifting, and granule loss you get with shingles after 10 or 15 years. The extra upfront cost of metal pays for itself in lower maintenance, better insurance rates, and a roof that will outlast the house it is on.
+            Tennessee weather is hard on roofs. Summers bring intense heat, UV exposure, and occasional hail. Winters bring ice dams, freeze-thaw cycles, and wind. A quality roof handles all of it. The extra upfront cost pays for itself in lower maintenance, better insurance rates, and a roof that will outlast the house it is on.
           </p>
           <p className="text-slate-600 text-base leading-relaxed">
-            We install roofing on every custom home we build, and we also take on standalone roofing projects for existing homes. If your shingle roof is aging out, showing granule loss in the gutters, or if you have had repeated leak issues, a metal replacement is worth a serious look. We give honest assessments and free quotes throughout our service area.
+            We install roofing on every custom home we build, and we also take on standalone roofing projects for existing homes. If your shingle roof is aging out, showing granule loss in the gutters, or if you have had repeated leak issues, a quality replacement is worth a serious look. We give honest assessments and quotes throughout our service area.
           </p>
         </div>
       </section>
@@ -188,7 +188,7 @@ export default function RoofingContractorPage() {
       <section className="py-24 bg-white">
         <div className="max-w-6xl mx-auto px-6">
           <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
-            Metal Roofing Costs in Tennessee and Alabama
+            Roofing Costs in Tennessee and Alabama
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Metal roofing costs in this region typically run $8 to $14 per square foot installed for corrugated metal, and $14 to $22 per square foot for standing seam. The difference comes down to the profile, the gauge of the metal, and the pitch and complexity of your roof. A simple gable roof on a 1,500 square foot home costs significantly less per square foot to install than a complex hip roof with multiple valleys and dormers.

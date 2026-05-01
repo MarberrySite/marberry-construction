@@ -53,7 +53,7 @@ const faqItems = [
   {
     question: 'How much does an addition cost in Ardmore?',
     answer:
-      'Most additions run $120 to $220 per square foot. Total projects typically range $40,000 to $120,000.',
+      'Most additions run $150 to $250 per square foot. Total projects typically range $40,000 to $120,000.',
   },
   {
     question: 'How long does an addition take?',
@@ -212,7 +212,7 @@ export default function HomeAdditionsArdmorePage() {
             Addition Costs in Ardmore TN
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Home additions in the Ardmore area typically run $120 to $220 per square foot depending on the complexity of the work, the finishes selected, and how much structural work is required to connect the addition to the existing home. A straightforward bedroom addition with standard finishes runs toward the lower end. A kitchen expansion or master suite with load-bearing wall work, plumbing changes, or custom finishes runs higher.
+            Home additions in the Ardmore area typically run $150 to $250 per square foot depending on the complexity of the work, the finishes selected, and how much structural work is required to connect the addition to the existing home. A straightforward bedroom addition with standard finishes runs toward the lower end. A kitchen expansion or master suite with load-bearing wall work, plumbing changes, or custom finishes runs higher.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most addition clients in the Ardmore area spend between $40,000 and $120,000 for a meaningful addition that adds real square footage and value to their home. Smaller projects like porches, mudrooms, and utility additions can come in under $30,000. On-site estimates throughout the Ardmore area are free, and we provide detailed written estimates before any work begins so you know what each part of the project costs before you commit.

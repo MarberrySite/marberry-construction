@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'How Much Does a Home Addition Cost in Tennessee? | Marberry Construction',
   description:
-    'Home additions in Tennessee cost $120-$220 per square foot. See typical project totals and what drives the price in Lincoln County and surrounding areas.',
+    'Home additions in Tennessee cost $150-$250 per square foot. See typical project totals and what drives the price in Lincoln County and surrounding areas.',
   alternates: { canonical: '/blog/how-much-does-a-home-addition-cost-in-tennessee' },
 };
 
@@ -20,7 +20,7 @@ const schema = {
   },
   datePublished: '2025-01-01',
   description:
-    'Home additions in Tennessee cost $120-$220 per square foot. See typical project totals and what drives the price in Lincoln County and surrounding areas.',
+    'Home additions in Tennessee cost $150-$250 per square foot. See typical project totals and what drives the price in Lincoln County and surrounding areas.',
 };
 
 export default function Page() {
@@ -44,7 +44,7 @@ export default function Page() {
 
         <div className="prose prose-slate max-w-none font-inter text-slate-700 leading-relaxed space-y-6">
           <p>
-            Home additions in Tennessee typically run $120 to $220 per square foot, depending on
+            Home additions in Tennessee typically run $150 to $250 per square foot, depending on
             the type of addition, the finish level, and the complexity of integrating new
             construction with the existing structure. A standard room addition in the 300 to
             500 square foot range comes in at $40,000 to $120,000 for most projects in Lincoln
