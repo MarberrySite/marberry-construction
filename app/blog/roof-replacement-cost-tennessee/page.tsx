@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Roof Replacement Cost in Tennessee | Marberry Construction',
   description:
-    'Metal roof replacement in Tennessee costs $8-$22 per square foot installed. Get real numbers for corrugated and standing seam roofs in Lincoln County.',
+    'Metal roof replacement in Tennessee costs $8-$13 per square foot installed. Get real numbers for corrugated and standing seam roofs in Lincoln County.',
   alternates: { canonical: '/blog/roof-replacement-cost-tennessee' },
 };
 
@@ -20,7 +20,7 @@ const schema = {
   },
   datePublished: '2025-01-01',
   description:
-    'Metal roof replacement in Tennessee costs $8-$22 per square foot installed. Get real numbers for corrugated and standing seam roofs in Lincoln County.',
+    'Metal roof replacement in Tennessee costs $8-$13 per square foot installed. Get real numbers for corrugated and standing seam roofs in Lincoln County.',
 };
 
 export default function Page() {
@@ -47,9 +47,9 @@ export default function Page() {
             If you are pricing a roof replacement in Tennessee and considering metal, here are
             the real numbers we work with in Lincoln County and the surrounding region.
             Corrugated metal with exposed fasteners runs $8 to $14 per square foot installed.
-            Standing seam with hidden fasteners runs $14 to $22 per square foot installed. For a
+            Standing seam with hidden fasteners runs $10 to $13 per square foot installed. For a
             typical 1,500 to 2,000 square foot home footprint, that puts total metal roof
-            replacement in the $12,000 to $44,000 range depending on the system you choose and
+            replacement in the $12,000 to $26,000 range depending on the system you choose and
             the specifics of your roof.
           </p>
 
@@ -120,7 +120,7 @@ export default function Page() {
             are on homes with 1,600 to 2,400 square foot footprints and moderate pitch rooflines.
             For a project in that range using corrugated metal with tear-off included, homeowners
             typically spend $14,000 to $28,000. For standing seam on the same footprint,
-            $24,000 to $50,000 is a realistic range depending on complexity.
+            $16,000 to $32,000 is a realistic range depending on complexity.
           </p>
           <p>
             Agricultural buildings and large shop roofs can vary widely because the square

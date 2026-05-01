@@ -46,7 +46,7 @@ const faqItems = [
       'Yes. We serve the unincorporated Madison County communities including Harvest, Meridianville, New Market, Toney, Hazel Green, and Gurley.',
   },
   {
-    question: 'How much does metal roofing cost in Madison County?',
+    question: 'How much does a standing seam roof cost in Madison County?',
     answer:
       'Most projects run $12,000 to $35,000 depending on roof size and complexity.',
   },
@@ -211,7 +211,7 @@ export default function RoofingContractorMadisonCountyPage() {
             Roof Replacement Costs in Madison County AL
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Corrugated metal roofing in the rural Madison County area typically runs $8 to $14 per square foot installed. Standing seam runs $14 to $22 per square foot depending on profile and gauge. Both prices include tear-off of the existing roof, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
+            Standing seam metal roofing in the rural Madison County area typically runs $1000 to $1300 per square installed, depending on the profile and gauge. The price includes tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most homeowners in rural Madison County replacing a shingle roof with metal spend between $12,000 and $35,000 for the complete project. We provide itemized written estimates throughout unincorporated Madison County at no charge so you know exactly what you are committing to before any work begins.

@@ -55,9 +55,9 @@ const whyMetal = [
 
 const faqItems = [
   {
-    question: 'How much does a metal roof cost in Tennessee?',
+    question: 'How much does a standing seam roof cost in Tennessee?',
     answer:
-      'Metal roofing typically runs $8 to $14 per square foot installed, depending on roof pitch, size, and material choice.',
+      'Standing seam metal roofing typically runs $1000 to $1300 per square installed, depending on roof pitch, size, and profile.',
   },
   {
     question: 'How long does a roof replacement take?',
@@ -191,7 +191,7 @@ export default function RoofingContractorPage() {
             Roofing Costs in Tennessee and Alabama
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Metal roofing costs in this region typically run $8 to $14 per square foot installed for corrugated metal, and $14 to $22 per square foot for standing seam. The difference comes down to the profile, the gauge of the metal, and the pitch and complexity of your roof. A simple gable roof on a 1,500 square foot home costs significantly less per square foot to install than a complex hip roof with multiple valleys and dormers.
+            Standing seam metal roofing in this region typically runs $1000 to $1300 per square installed, depending on the profile and gauge. The price includes tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
           </p>
           <p className="text-slate-600 text-base leading-relaxed">
             Most homeowners replacing an aging shingle roof with metal in our service area spend between $12,000 and $35,000 depending on roof size and complexity. That is a real number, not a marketing range. We give itemized quotes so you know exactly what you are paying for. There are no surprises at the end of the job.

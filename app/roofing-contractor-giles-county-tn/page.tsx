@@ -46,7 +46,7 @@ const faqItems = [
       'Yes. Giles County and Pulaski are regular parts of our service area.',
   },
   {
-    question: 'How much does metal roofing cost in Giles County?',
+    question: 'How much does a standing seam roof cost in Giles County?',
     answer:
       'Most projects run $12,000 to $35,000 depending on roof size and complexity.',
   },
@@ -211,7 +211,7 @@ export default function RoofingContractorGilesCountyPage() {
             Roof Replacement Costs in Giles County TN
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Corrugated metal roofing in the Giles County area typically runs $8 to $14 per square foot installed. Standing seam runs $14 to $22 per square foot depending on the profile and gauge. Both prices include tear-off of the existing roof, disposal, new underlayment, materials, and labor. Pitch, access complexity, and roof configuration all affect the final number.
+            Standing seam metal roofing in the Giles County area typically runs $1000 to $1300 per square installed, depending on the profile and gauge. The price includes tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most homeowners in Giles County replacing a shingle roof with metal spend between $12,000 and $35,000 for the complete project. A straightforward single-story home comes in toward the lower end. A larger home with steep pitch, multiple valleys, or dormers comes in toward the higher end. We provide itemized written estimates throughout Giles County and the Pulaski area at no charge so you know exactly what you are committing to before any work begins.

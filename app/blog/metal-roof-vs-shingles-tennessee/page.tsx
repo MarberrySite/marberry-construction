@@ -61,8 +61,8 @@ export default function Page() {
           </p>
           <p>
             Corrugated metal with exposed fasteners runs $8 to $14 per square foot installed.
-            Standing seam, with its hidden fastener system, runs $14 to $22 per square foot.
-            The same 2,000 square foot footprint in standing seam costs $28,000 to $44,000
+            Standing seam, with its hidden fastener system, runs $10 to $13 per square foot.
+            The same 2,000 square foot footprint in standing seam costs $20,000 to $26,000
             installed. That is a meaningful difference in upfront dollars, and it is the reason
             some homeowners choose shingles when budget is tight.
           </p>
@@ -96,7 +96,7 @@ export default function Page() {
             before they would have to do it again.
           </p>
           <p>
-            Wind resistance is another factor. Properly installed standing seam metal roofing
+            Wind resistance is another factor. Properly installed standing seam roofing
             carries wind ratings that standard shingles cannot match. In Lincoln County and the
             surrounding region, where severe thunderstorms with 60 to 80 mph wind gusts occur
             multiple times per year, wind resistance is a practical concern, not just a spec

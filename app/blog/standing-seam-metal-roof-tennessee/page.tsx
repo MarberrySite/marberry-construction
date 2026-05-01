@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 const schema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
-  headline: 'Standing Seam Metal Roofs in Tennessee',
+  headline: 'Standing Seam Roofs in Tennessee',
   author: { '@type': 'Organization', name: 'Marberry Construction LLC' },
   publisher: {
     '@type': 'Organization',
@@ -36,7 +36,7 @@ export default function Page() {
           Metal Roofing
         </p>
         <h1 className="font-playfair text-4xl font-bold text-[#1B2A4A] mb-6 leading-snug">
-          Standing Seam Metal Roofs in Tennessee
+          Standing Seam Roofs in Tennessee
         </h1>
         <p className="text-slate-500 text-sm font-inter mb-10">
           By Marberry Construction LLC, Fayetteville TN
@@ -44,8 +44,7 @@ export default function Page() {
 
         <div className="prose prose-slate max-w-none font-inter text-slate-700 leading-relaxed space-y-6">
           <p>
-            Standing seam metal roofing is the premium option for residential metal roofs in
-            Tennessee. It uses a hidden fastener system and continuous panels that run from the
+            Standing seam roofing is the premium roofing option for Tennessee homes. It uses a hidden fastener system and continuous panels that run from the
             ridge to the eave without any exposed screws penetrating through the face of the
             panel. That design difference, compared to corrugated exposed-fastener metal, is
             what makes standing seam the longer-lasting and more leak-resistant choice, and the
@@ -99,11 +98,11 @@ export default function Page() {
             Cost of Standing Seam in Tennessee
           </h2>
           <p>
-            Standing seam runs $14 to $22 per square foot installed in our service area. The
+            Standing seam runs $10 to $13 per square foot installed in our service area. The
             variation depends on panel gauge, panel width, coating type, roofline complexity, and
             whether tear-off of existing roofing is required. For a typical home with a 1,800
-            square foot roof footprint, a standing seam installation falls in the $25,000 to
-            $40,000 range installed.
+            square foot roof footprint, a standing seam installation falls in the $18,000 to
+            $23,000 range installed.
           </p>
           <p>
             That is a premium over corrugated metal and a significant premium over shingles. It
@@ -139,7 +138,7 @@ export default function Page() {
             The smooth panel surface and tight seam lines give a more refined look than corrugated
             panels, and it is available in a wide range of Kynar-coated colors that hold their
             appearance for decades. Most of the custom homes we build in Lincoln County and the
-            surrounding area receive standing seam metal roofing because it fits the look and the
+            surrounding area receive standing seam roofing because it fits the look and the
             long-term performance expectation of a custom build.
           </p>
           <p>

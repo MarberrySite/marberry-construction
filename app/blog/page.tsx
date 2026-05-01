@@ -41,7 +41,7 @@ const articles = [
     href: '/blog/roof-replacement-cost-tennessee',
     title: 'Roof Replacement Cost in Tennessee',
     description:
-      'Corrugated metal runs $8 to $14 per square foot installed. Standing seam runs $14 to $22. Real numbers for Lincoln County projects.',
+      'Standing seam runs $10 to $13 per square foot installed, with corrugated as a lower-cost alternative. Real numbers for Lincoln County projects.',
     category: 'Roofing',
   },
   {

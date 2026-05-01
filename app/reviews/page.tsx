@@ -48,7 +48,7 @@ const reviews = [
   },
   {
     quote:
-      'Our old shingle roof was leaking after a storm. Marberry replaced it with a standing seam metal roof. Best decision we ever made for the house.',
+      'Our old shingle roof was leaking after a storm. Marberry replaced it with a standing seam roof. Best decision we ever made for the house.',
     name: 'Carol B.',
     location: 'Winchester TN',
   },

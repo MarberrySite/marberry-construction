@@ -47,9 +47,9 @@ const faqItems = [
       'Yes. Fayetteville and Lincoln County is our primary service area for roofing. We install and replace metal roofs on residential homes throughout the area.',
   },
   {
-    question: 'How much does a metal roof cost in Lincoln County TN?',
+    question: 'How much does a standing seam roof cost in Lincoln County TN?',
     answer:
-      'Most residential metal roof replacements in our area run $12,000 to $35,000 depending on roof size and complexity.',
+      'Most residential standing seam roof replacements in our area run $12,000 to $35,000 depending on roof size and complexity.',
   },
   {
     question: 'How long does a metal roof last in Tennessee?',
@@ -215,7 +215,7 @@ export default function RoofingContractorFayettevillePage() {
             Roof Replacement Cost in Fayetteville TN
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Corrugated metal roofing installed in the Fayetteville TN area typically runs $8 to $14 per square foot installed. Standing seam runs $14 to $22 per square foot depending on the profile and gauge of the metal. These are installed prices that include tear-off of the existing roof, disposal, new underlayment, materials, and labor. Pitch, access complexity, and roof configuration all affect the final number.
+            Standing seam metal roofing in the Fayetteville TN area typically runs $1000 to $1300 per square installed, depending on the profile and gauge. The price includes tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most homeowners in Lincoln County replacing a shingle roof with metal spend between $12,000 and $35,000 for the complete job. A single-story home with a straightforward roof line comes in on the lower end. A larger home with multiple roof sections, steep pitch, or dormers and valleys comes in higher. The upfront cost of metal is more than shingles, but a metal roof that lasts 50 years costs significantly less over time than replacing a shingle roof every 15 to 20 years. We provide itemized written quotes so you know exactly what each part of the project costs.

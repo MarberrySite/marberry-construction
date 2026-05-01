@@ -46,7 +46,7 @@ const faqItems = [
       'Yes. We serve Ardmore and surrounding communities on both sides of the state line.',
   },
   {
-    question: 'How much does a metal roof cost in Ardmore?',
+    question: 'How much does a standing seam roof cost in Ardmore?',
     answer:
       'Most projects run $12,000 to $35,000 depending on roof size and material selection.',
   },
@@ -208,7 +208,7 @@ export default function RoofingContractorArdmorePage() {
             Roofing Costs in Ardmore TN
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Corrugated metal roofing in the Ardmore area typically runs $8 to $14 per square foot installed. Standing seam runs $14 to $22 per square foot depending on the profile and gauge. Both prices include tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof configuration all affect the final number.
+            Standing seam metal roofing in the Ardmore area typically runs $1000 to $1300 per square installed, depending on the profile and gauge. The price includes tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most homeowners in the Ardmore area replacing a shingle roof with metal spend between $12,000 and $35,000 for the complete project. We provide itemized written estimates at no charge so you know exactly what you are committing to before any work begins.

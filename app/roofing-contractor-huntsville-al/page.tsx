@@ -46,9 +46,9 @@ const faqItems = [
       'Yes. We serve Madison County, Limestone County, and the Huntsville metro including Harvest, Madison city, Meridianville, and Athens.',
   },
   {
-    question: 'How much does a metal roof cost near Huntsville?',
+    question: 'How much does a standing seam roof cost near Huntsville?',
     answer:
-      'Most residential metal roof projects run $12,000 to $35,000 installed depending on roof size and complexity.',
+      'Most residential standing seam roof projects run $12,000 to $35,000 installed depending on roof size and complexity.',
   },
   {
     question: 'How long does roof installation take?',
@@ -211,7 +211,7 @@ export default function RoofingContractorHuntsvillePage() {
             Roof Replacement Costs in the Huntsville AL Area
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Corrugated metal roofing in the Huntsville area typically runs $8 to $14 per square foot installed. Standing seam runs $14 to $22 per square foot depending on the profile and gauge of the metal. Both prices include tear-off of the existing roof, disposal, new underlayment, materials, and labor. Pitch, access complexity, and roof configuration all affect the final number.
+            Standing seam metal roofing in the Huntsville area typically runs $1000 to $1300 per square installed, depending on the profile and gauge. The price includes tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Most homeowners in Madison County replacing a shingle roof with metal spend between $12,000 and $35,000 for the complete project. A single-story home with a straightforward roof line comes in on the lower end of that range. A larger home with steep pitch, multiple valleys, or dormers comes in higher. We provide itemized written estimates throughout Madison County at no charge so you know exactly what you are committing to before any work begins.
