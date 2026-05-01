@@ -47,6 +47,11 @@ const faqItems = [
       'Yes. Fayetteville is our home base. We have built throughout Lincoln County and know the local permit process, soil conditions, and county requirements well.',
   },
   {
+    question: 'How long does it take to get a building permit?',
+    answer:
+      'Building permits in Lincoln County are usually same-day, so we can move quickly once plans are finalized.',
+  },
+  {
     question: 'How long does a custom home build take in Lincoln County?',
     answer:
       'From permit approval to move-in, most builds in Lincoln County take 8 to 14 months. We give you a detailed schedule at the start of every project.',

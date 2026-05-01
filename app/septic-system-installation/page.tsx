@@ -210,7 +210,7 @@ export default function SepticSystemInstallationPage() {
             Septic Permits and County Requirements in Tennessee and Alabama
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            In Tennessee, a septic permit is required before any system can be installed. The permit application goes through the county health department and requires a site evaluation, a soil morphology report, and an approved system design. In Lincoln County, this process typically takes 3 to 8 weeks. Once you apply for and pickup your permit, we will get started. You do not have to navigate the county process yourself.
+            In Tennessee, a septic permit is required before any system can be installed. The permit application goes through the county health department and requires a site evaluation, a soil morphology report, and an approved system design. In Lincoln County, this process typically takes 3 to 8 weeks. Once you apply for and pickup your permit, we will get started. You do not have to navigate the county process yourself. Septic permits go through the health department and have their own review process — they run on a separate timeline from building permits.
           </p>
           <p className="text-slate-600 text-base leading-relaxed">
             In Alabama, septic systems fall under the jurisdiction of the county health department as well. Requirements in Madison County and Limestone County are similar to Tennessee in terms of soil evaluation and system approval, though the specific forms and processes differ. We are familiar with both state systems on both sides of the state line.

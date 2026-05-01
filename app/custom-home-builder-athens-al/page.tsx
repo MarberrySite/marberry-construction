@@ -51,6 +51,11 @@ const faqItems = [
       'Yes. We are licensed in Alabama and familiar with Limestone County building department requirements.',
   },
   {
+    question: 'How long does it take to get a building permit?',
+    answer:
+      'Building permits in Limestone County typically take 1 to 2 weeks from submission to approval.',
+  },
+  {
     question: 'How much does a custom home cost in Athens AL?',
     answer:
       'Most builds run $175 to $275 per square foot. Total project costs typically range from $300,000 to $1,100,000 depending on size and finishes.',

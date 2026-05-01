@@ -46,6 +46,11 @@ const faqItems = [
       'Yes. We serve Winchester and Franklin County regularly. Our Fayetteville TN base is about 25 miles away and we work throughout the region.',
   },
   {
+    question: 'How long does it take to get a building permit?',
+    answer:
+      'Building permits in Franklin County are usually same-day, so we can move quickly once plans are finalized.',
+  },
+  {
     question: 'How long does a custom build take in Franklin County?',
     answer:
       'From permit approval to move-in, most builds take 8 to 14 months. We provide a detailed schedule at the start of every project.',

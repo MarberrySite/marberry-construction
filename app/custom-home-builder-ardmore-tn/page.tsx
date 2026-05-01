@@ -51,6 +51,11 @@ const faqItems = [
       'Ardmore straddles Lincoln County TN and Limestone County AL. We handle permits on both sides depending on where your property sits.',
   },
   {
+    question: 'How long does it take to get a building permit?',
+    answer:
+      'Building permits in Lincoln County (TN) are usually same-day. For projects in Limestone County (AL) or other Alabama jurisdictions, building permits typically take 1 to 2 weeks from submission to approval.',
+  },
+  {
     question: 'How far is Marberry from Ardmore?',
     answer:
       'We are based in Fayetteville TN, about 20 miles from Ardmore. We work in this area regularly.',

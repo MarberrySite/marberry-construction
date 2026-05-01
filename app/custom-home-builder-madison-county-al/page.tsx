@@ -51,6 +51,11 @@ const faqItems = [
       'Unincorporated Madison County permits go through the Madison County Building Department, not the City of Huntsville. The process is distinct and we manage it on every project.',
   },
   {
+    question: 'How long does it take to get a building permit?',
+    answer:
+      'Building permits in Madison County typically take 1 to 2 weeks from submission to approval.',
+  },
+  {
     question: 'What does a custom home cost in rural Madison County AL?',
     answer:
       'Most builds run $175 to $275 per square foot. Total project costs typically range from $325,000 to $1,100,000 depending on size and finishes.',

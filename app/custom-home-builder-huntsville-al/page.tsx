@@ -51,6 +51,11 @@ const faqItems = [
       'Yes. We are licensed to operate in Alabama and are familiar with Madison County building department requirements.',
   },
   {
+    question: 'How long does it take to get a building permit?',
+    answer:
+      'Building permits in Madison County typically take 1 to 2 weeks from submission to approval.',
+  },
+  {
     question: 'How much does a custom home cost near Huntsville?',
     answer:
       'Most builds in our service area run $175 to $275 per square foot. Total project costs typically range from $300,000 to $1,100,000 depending on size and finishes.',

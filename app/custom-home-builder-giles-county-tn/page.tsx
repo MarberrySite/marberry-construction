@@ -46,6 +46,11 @@ const faqItems = [
       'Yes. Giles County is a regular part of our service area. We are based in Fayetteville TN, about 20 miles from Pulaski.',
   },
   {
+    question: 'How long does it take to get a building permit?',
+    answer:
+      'Building permits in Giles County are usually same-day, so we can move quickly once plans are finalized.',
+  },
+  {
     question: 'How long does a custom build take in Giles County?',
     answer:
       'From permit approval to move-in, most builds take 8 to 14 months. We provide a detailed schedule at the start of every project.',

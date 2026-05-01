@@ -56,6 +56,11 @@ const faqItems = [
       'Most builds run $175 to $275 per square foot. Total project costs typically range from $300,000 to $1,100,000 depending on size and finishes.',
   },
   {
+    question: 'How long does it take to get a building permit?',
+    answer:
+      'Building permits in Lincoln County are usually same-day, so we can move quickly once plans are finalized.',
+  },
+  {
     question: 'Do you handle Lincoln County permits for Taft area builds?',
     answer:
       'Yes. We manage the full permit process through the Lincoln County building department on every project.',
