@@ -225,7 +225,7 @@ export default function CustomHomeBuilderPage() {
             What to Expect When Building a Custom Home in Tennessee
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            The custom home process in Tennessee typically starts 3 to 6 months before any dirt moves. That time is spent finalizing plans, running soil tests if needed, securing financing, and waiting on permit approval from the county. In Lincoln County and surrounding areas, permit timelines typically run 2 to 6 weeks depending on the complexity of the build and current county workload.
+            The custom home process in Tennessee typically starts 3 to 4 weeks before we get started on the foundation. That time is spent finalizing plans, running soil tests if needed, securing financing, and waiting on permit approval from the county. In Lincoln County and surrounding areas, permit timelines typically run 2 to 6 weeks depending on the complexity of the build and current county workload.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Once permits are approved and the site is cleared, a typical custom home build in this region takes 8 to 14 months. Larger homes or builds with complex custom finishes can run longer. Weather is a factor in Tennessee. We plan our pour schedules and framing windows around the forecast and always have contingencies built into the timeline we give you at the start.
