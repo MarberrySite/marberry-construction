@@ -33,24 +33,24 @@ const serviceAreas = [
 const roofingServices = [
   {
     title: 'New Roof Installation',
-    body: 'Full metal roofing installation on new construction and existing homes.',
+    body: 'Standing seam and architectural shingle installation on new construction and existing homes.',
   },
   {
     title: 'Roof Replacement',
-    body: 'Remove old roofing and replace with durable metal. Standing seam or corrugated.',
+    body: 'Remove old roofing and replace with standing seam or architectural shingles, both built to last decades.',
   },
   {
     title: 'New Construction Roofing',
-    body: 'We roof every home we build and take on standalone roofing projects throughout the region.',
+    body: 'We roof every home we build and take on standalone roofing projects throughout the region. Standing seam and architectural shingles available.',
   },
 ];
 
 const whyMetal = [
-  'Lasts 40 to 70 years vs 15 to 20 for shingles',
-  'Lower insurance premiums in many Tennessee counties',
-  'Handles Tennessee ice, wind, and summer heat better than shingles',
-  'Energy efficient. Reflects heat and lowers cooling costs.',
-  'Increases resale value of your home',
+  'Standing seam roofs last 40 to 70 years; architectural shingles 30 to 50 years — both far longer than basic shingle products.',
+  'Both products can qualify for lower insurance premiums in many Tennessee counties — ask your agent about impact-resistant shingle credits.',
+  'Engineered to handle Tennessee ice, wind, and summer heat, with proper installation and quality underlayment.',
+  'Both products offer energy benefits — reflective metal coatings and modern shingle technology can lower cooling costs.',
+  'A quality roof — metal or shingle — increases the resale value of your home.',
 ];
 
 const faqItems = [
@@ -168,10 +168,10 @@ export default function RoofingContractorPage() {
       <section className="py-24 bg-warmwhite">
         <div className="max-w-6xl mx-auto px-6">
           <p className="text-skyblue text-xs font-semibold tracking-[0.2em] uppercase mb-3">
-            The Case for Metal
+            Built to Last
           </p>
           <h2 className="font-playfair text-4xl font-bold text-navy mb-6">
-            Why Metal Roofing?
+            Why Standing Seam &amp; Architectural Shingles?
           </h2>
           <div className="space-y-4 mt-8">
             {whyMetal.map((point) => (
