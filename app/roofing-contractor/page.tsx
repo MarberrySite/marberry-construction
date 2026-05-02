@@ -46,11 +46,11 @@ const roofingServices = [
 ];
 
 const whyMetal = [
-  'Standing seam roofs last 40 to 70 years; architectural shingles 30 to 50 years — both far longer than basic shingle products.',
-  'Both products can qualify for lower insurance premiums in many Tennessee counties — ask your agent about impact-resistant shingle credits.',
-  'Engineered to handle Tennessee ice, wind, and summer heat, with proper installation and quality underlayment.',
-  'Both products offer energy benefits — reflective metal coatings and modern shingle technology can lower cooling costs.',
-  'A quality roof — metal or shingle — increases the resale value of your home.',
+  'Standing seam roofs last 40 to 70 years. Architectural shingles last 30 to 50 years. Both far outperform basic shingle products.',
+  'Both products can qualify for lower insurance premiums in many Tennessee counties. Ask your agent about impact-resistant shingle credits.',
+  'Engineered to handle Tennessee ice, wind, and summer heat with proper installation and quality underlayment.',
+  'Standing seam reflects heat to lower cooling costs. Architectural shingles add insulation value compared to basic shingle products.',
+  'Both options add long-term value: lower replacement frequency, better curb appeal, and a roof that outlasts most other home upgrades.',
 ];
 
 const faqItems = [
@@ -133,7 +133,7 @@ export default function RoofingContractorPage() {
             Roofing Contractor in Fayetteville TN and Northern Alabama
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Marberry Construction installs and replaces roofing on residential homes throughout Lincoln County, Giles County, Franklin County, and into Huntsville, Madison County, and Athens in Alabama. We specialize in metal roofing because it is simply the best choice for this climate. Standing seam and corrugated metal roofs outperform asphalt shingles in every category that matters in Southern Tennessee.
+            Marberry Construction installs and replaces roofing on residential homes throughout Lincoln County, Giles County, Franklin County, and into Huntsville, Madison County, and Athens in Alabama. We install both standing seam metal and architectural shingles, choosing the right system for each home and budget.
           </p>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
             Tennessee weather is hard on roofs. Summers bring intense heat, UV exposure, and occasional hail. Winters bring ice dams, freeze-thaw cycles, and wind. A quality roof handles all of it. The extra upfront cost pays for itself in lower maintenance, better insurance rates, and a roof that will outlast the house it is on.
@@ -144,7 +144,7 @@ export default function RoofingContractorPage() {
         </div>
       </section>
 
-      {/* Section 1 — Services */}
+      {/* Section 1: Services */}
       <section className="py-24 bg-white">
         <div className="max-w-6xl mx-auto px-6">
           <p className="text-skyblue text-xs font-semibold tracking-[0.2em] uppercase mb-3">
@@ -164,7 +164,7 @@ export default function RoofingContractorPage() {
         </div>
       </section>
 
-      {/* Section 2 — Why Metal */}
+      {/* Section 2: Why Roofing */}
       <section className="py-24 bg-warmwhite">
         <div className="max-w-6xl mx-auto px-6">
           <p className="text-skyblue text-xs font-semibold tracking-[0.2em] uppercase mb-3">
@@ -191,15 +191,15 @@ export default function RoofingContractorPage() {
             Roofing Costs in Tennessee and Alabama
           </h2>
           <p className="text-slate-600 text-base leading-relaxed mb-4">
-            Standing seam metal roofing in this region typically runs $1000 to $1300 per square installed, depending on the profile and gauge. The price includes tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
+            Standing seam roofing in this region typically runs $1000 to $1300 per square installed, depending on the profile and gauge. The price includes tear-off, disposal, new underlayment, materials, and labor. Pitch, access, and roof complexity all affect the final number.
           </p>
           <p className="text-slate-600 text-base leading-relaxed">
-            Most homeowners replacing an aging shingle roof with metal in our service area spend between $12,000 and $35,000 depending on roof size and complexity. That is a real number, not a marketing range. We give itemized quotes so you know exactly what you are paying for. There are no surprises at the end of the job.
+            Most homeowners replacing an aging shingle roof in our service area spend between $12,000 and $35,000 depending on roof size and complexity. That is a real number, not a marketing range. We give itemized quotes so you know exactly what you are paying for. There are no surprises at the end of the job.
           </p>
         </div>
       </section>
 
-      {/* Section 3 — Service Areas */}
+      {/* Section 3: Service Areas */}
       <section className="py-24 bg-white">
         <div className="max-w-6xl mx-auto px-6 text-center">
           <p className="text-skyblue text-xs font-semibold tracking-[0.2em] uppercase mb-3">
@@ -221,7 +221,7 @@ export default function RoofingContractorPage() {
         </div>
       </section>
 
-      {/* Section 4 — FAQ */}
+      {/* Section 4: FAQ */}
       <section className="py-24 bg-warmwhite">
         <div className="max-w-6xl mx-auto px-6">
           <p className="text-skyblue text-xs font-semibold tracking-[0.2em] uppercase mb-3">
